@@ -1,0 +1,808 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "app-store" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "app-store" [ref=e9] [cursor=pointer]
+        - button "Gurugram" [ref=e11] [cursor=pointer]:
+          - generic [ref=e12] [cursor=pointer]:
+            - img [ref=e14] [cursor=pointer]
+            - generic [ref=e17] [cursor=pointer]:
+              - generic [ref=e18] [cursor=pointer]: Gurugram
+              - generic [ref=e19] [cursor=pointer]: Haryana
+      - generic [ref=e20]:
+        - generic [ref=e22]:
+          - link "For you" [ref=e23] [cursor=pointer]:
+            - /url: /
+          - link "Dining" [ref=e24] [cursor=pointer]:
+            - /url: /dining/
+          - link "Events" [ref=e25] [cursor=pointer]:
+            - /url: /events/
+          - link "Movies" [ref=e26] [cursor=pointer]:
+            - /url: /movies/
+          - link "Activities" [ref=e27] [cursor=pointer]:
+            - /url: /activities/
+        - generic [ref=e28]:
+          - link "Search for events, movies and restaurants" [ref=e30] [cursor=pointer]:
+            - /url: /search
+            - generic [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - generic [ref=e35] [cursor=pointer]: Search for events, movies and restaurants
+          - button "User Avatar" [ref=e36] [cursor=pointer]:
+            - img [ref=e38] [cursor=pointer]
+    - generic [ref=e42]:
+      - generic [ref=e43]:
+        - generic [ref=e47]: Top Hindi movies near you
+        - generic [ref=e48]:
+          - link "Jolly LLB 3 Jolly LLB 3 UA16+ | Hindi" [ref=e49] [cursor=pointer]:
+            - /url: https://www.district.in/movies/jolly-llb-3-movie-tickets-in-gurgaon-MV172789
+            - generic [ref=e51] [cursor=pointer]:
+              - img "Jolly LLB 3" [ref=e52] [cursor=pointer]
+              - generic [ref=e53] [cursor=pointer]:
+                - heading "Jolly LLB 3" [level=5] [ref=e54] [cursor=pointer]
+                - generic [ref=e55] [cursor=pointer]: UA16+ | Hindi
+          - link "Shin Chan The Spicy Kasukabe Dancers in India Shin Chan The Spicy Kasukabe Dancers in India U | Hindi" [ref=e56] [cursor=pointer]:
+            - /url: https://www.district.in/movies/shin-chan-the-spicy-kasukabe-dancers-in-india-movie-tickets-in-gurgaon-MV198610
+            - generic [ref=e58] [cursor=pointer]:
+              - img "Shin Chan The Spicy Kasukabe Dancers in India" [ref=e59] [cursor=pointer]
+              - generic [ref=e60] [cursor=pointer]:
+                - heading "Shin Chan The Spicy Kasukabe Dancers in India" [level=5] [ref=e61] [cursor=pointer]
+                - generic [ref=e62] [cursor=pointer]: U | Hindi
+          - link "Homebound Homebound UA16+ | Hindi" [ref=e63] [cursor=pointer]:
+            - /url: https://www.district.in/movies/homebound-movie-tickets-in-gurgaon-MV206138
+            - generic [ref=e65] [cursor=pointer]:
+              - img "Homebound" [ref=e66] [cursor=pointer]
+              - generic [ref=e67] [cursor=pointer]:
+                - heading "Homebound" [level=5] [ref=e68] [cursor=pointer]
+                - generic [ref=e69] [cursor=pointer]: UA16+ | Hindi
+          - 'link "The Conjuring: Last Rites The Conjuring: Last Rites A | Hindi and 1 more" [ref=e70] [cursor=pointer]':
+            - /url: https://www.district.in/movies/the-conjuring-last-rites-movie-tickets-in-gurgaon-MV175734
+            - generic [ref=e72] [cursor=pointer]:
+              - 'img "The Conjuring: Last Rites" [ref=e73] [cursor=pointer]'
+              - generic [ref=e74] [cursor=pointer]:
+                - 'heading "The Conjuring: Last Rites" [level=5] [ref=e75] [cursor=pointer]'
+                - generic [ref=e76] [cursor=pointer]: A | Hindi and 1 more
+      - generic [ref=e77]:
+        - generic [ref=e81]: Steal of the Week
+        - generic [ref=e82]:
+          - generic [ref=e83]:
+            - link "Play-Arena" [ref=e84] [cursor=pointer]:
+              - /url: "#"
+              - img "Play-Arena" [ref=e86] [cursor=pointer]
+            - link "Zooper" [ref=e87] [cursor=pointer]:
+              - /url: "#"
+              - img "Zooper" [ref=e89] [cursor=pointer]
+            - link "MOI" [ref=e90] [cursor=pointer]:
+              - /url: "#"
+              - img "MOI" [ref=e92] [cursor=pointer]
+            - link "Turbo Track" [ref=e93] [cursor=pointer]:
+              - /url: "#"
+              - img "Turbo Track" [ref=e95] [cursor=pointer]
+          - button [ref=e96] [cursor=pointer]
+      - generic [ref=e98]:
+        - generic [ref=e102]: Discover the best of Music Events
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - link "Comedy, Poetry, Storytelling & Music - Saturday Open Mic Delhi Every Sat, 5:00 PM to 7:30 PM Comedy, Poetry, Storytelling & Music - Saturday Open Mic Delhi Unmukt Studio, Delhi/NCR ₹149 onwards" [ref=e105] [cursor=pointer]:
+              - /url: https://www.district.in/events/comedy-poetry-storytelling-music-saturday-open-mic-delhi-nov30-2024-buy-tickets
+              - generic [ref=e107] [cursor=pointer]:
+                - img "Comedy, Poetry, Storytelling & Music - Saturday Open Mic Delhi" [ref=e108] [cursor=pointer]
+                - generic [ref=e109] [cursor=pointer]:
+                  - generic [ref=e110] [cursor=pointer]: Every Sat, 5:00 PM to 7:30 PM
+                  - heading "Comedy, Poetry, Storytelling & Music - Saturday Open Mic Delhi" [level=5] [ref=e111] [cursor=pointer]
+                  - generic [ref=e112] [cursor=pointer]: Unmukt Studio, Delhi/NCR
+                  - generic [ref=e113] [cursor=pointer]: ₹149 onwards
+            - link "Dandia Night | Float by Duty Free Sat, 27 Sep – Sun, 28 Sep, 7:30 PM Dandia Night | Float by Duty Free Float by Duty Free, Noida ₹249 onwards" [ref=e114] [cursor=pointer]:
+              - /url: https://www.district.in/events/dandia-night-float-by-duty-free-sep26-2025-buy-tickets
+              - generic [ref=e116] [cursor=pointer]:
+                - img "Dandia Night | Float by Duty Free" [ref=e117] [cursor=pointer]
+                - generic [ref=e118] [cursor=pointer]:
+                  - generic [ref=e119] [cursor=pointer]: Sat, 27 Sep – Sun, 28 Sep, 7:30 PM
+                  - heading "Dandia Night | Float by Duty Free" [level=5] [ref=e120] [cursor=pointer]
+                  - generic [ref=e121] [cursor=pointer]: Float by Duty Free, Noida
+                  - generic [ref=e122] [cursor=pointer]: ₹249 onwards
+            - link "Goa Sunsplash 2026 Sat, 17 Jan, 2:00 PM Goa Sunsplash 2026 Thalassa Beach Boutique Resort, Goa ₹4000" [ref=e123] [cursor=pointer]:
+              - /url: https://www.district.in/events/goa-sunsplash-2026-jan17-2026-buy-tickets
+              - generic [ref=e125] [cursor=pointer]:
+                - img "Goa Sunsplash 2026" [ref=e126] [cursor=pointer]
+                - generic [ref=e127] [cursor=pointer]:
+                  - generic [ref=e128] [cursor=pointer]: Sat, 17 Jan, 2:00 PM
+                  - heading "Goa Sunsplash 2026" [level=5] [ref=e129] [cursor=pointer]
+                  - generic [ref=e130] [cursor=pointer]: Thalassa Beach Boutique Resort, Goa
+                  - generic [ref=e131] [cursor=pointer]: ₹4000
+            - link "Rolling Loud India | Hip-Hop Festival | Karan Aujla, Central Cee offer Pay only 50% to reserve your tickets 22 Nov - 23 Nov, 3PM Rolling Loud India | Hip-Hop Festival | Karan Aujla, Central Cee Loud Park, Kharghar, Mumbai ₹7000 onwards" [ref=e132] [cursor=pointer]:
+              - /url: https://www.district.in/events/rolling-loud-india-buy-tickets
+              - generic [ref=e134] [cursor=pointer]:
+                - img "Rolling Loud India | Hip-Hop Festival | Karan Aujla, Central Cee" [ref=e135] [cursor=pointer]
+                - generic [ref=e136] [cursor=pointer]:
+                  - img "offer" [ref=e137] [cursor=pointer]
+                  - generic [ref=e138] [cursor=pointer]: Pay only 50% to reserve your tickets
+                - generic [ref=e139] [cursor=pointer]:
+                  - generic [ref=e140] [cursor=pointer]: 22 Nov - 23 Nov, 3PM
+                  - heading "Rolling Loud India | Hip-Hop Festival | Karan Aujla, Central Cee" [level=5] [ref=e141] [cursor=pointer]
+                  - generic [ref=e142] [cursor=pointer]: Loud Park, Kharghar, Mumbai
+                  - generic [ref=e143] [cursor=pointer]: ₹7000 onwards
+            - link "Fri, 21 Nov, 12:00 PM Royal Enfield Motoverse 2025 Hill Top Goa, Goa ₹2499 onwards" [ref=e144] [cursor=pointer]:
+              - /url: https://www.district.in/events/royal-enfield-motoverse-2025-buy-tickets
+              - generic [ref=e148] [cursor=pointer]:
+                - generic [ref=e149] [cursor=pointer]: Fri, 21 Nov, 12:00 PM
+                - heading "Royal Enfield Motoverse 2025" [level=5] [ref=e150] [cursor=pointer]
+                - generic [ref=e151] [cursor=pointer]: Hill Top Goa, Goa
+                - generic [ref=e152] [cursor=pointer]: ₹2499 onwards
+            - link "offer Pay only 50% to reserve your tickets Wed, 29 Oct, 6:30 PM Enrique Iglesias Live in Concert - New Show MMRDA Grounds, Mumbai ₹5000 onwards" [ref=e153] [cursor=pointer]:
+              - /url: https://www.district.in/events/enrique-iglesias-live-in-concert-second-show-2025-buy-tickets
+              - generic [ref=e155] [cursor=pointer]:
+                - generic [ref=e157] [cursor=pointer]:
+                  - img "offer" [ref=e158] [cursor=pointer]
+                  - generic [ref=e159] [cursor=pointer]: Pay only 50% to reserve your tickets
+                - generic [ref=e160] [cursor=pointer]:
+                  - generic [ref=e161] [cursor=pointer]: Wed, 29 Oct, 6:30 PM
+                  - heading "Enrique Iglesias Live in Concert - New Show" [level=5] [ref=e162] [cursor=pointer]
+                  - generic [ref=e163] [cursor=pointer]: MMRDA Grounds, Mumbai
+                  - generic [ref=e164] [cursor=pointer]: ₹5000 onwards
+            - link "Sat, 04 Oct, 5:00 PM Eric Prydz India 2025 | Delhi IG Indoor Stadium, Delhi/NCR ₹3200 onwards" [ref=e165] [cursor=pointer]:
+              - /url: https://www.district.in/events/eric-prydz-india-2025-delhi-buy-tickets
+              - generic [ref=e169] [cursor=pointer]:
+                - generic [ref=e170] [cursor=pointer]: Sat, 04 Oct, 5:00 PM
+                - heading "Eric Prydz India 2025 | Delhi" [level=5] [ref=e171] [cursor=pointer]
+                - generic [ref=e172] [cursor=pointer]: IG Indoor Stadium, Delhi/NCR
+                - generic [ref=e173] [cursor=pointer]: ₹3200 onwards
+            - link "Sat, 27 Sep, 7:00 PM Bollywood Dandiya Night PSOI club, nehru park, chanakyapuri, Delhi/NCR ₹1299 onwards" [ref=e174] [cursor=pointer]:
+              - /url: https://www.district.in/events/bollywood-dandiya-night-sep27-2025-buy-tickets
+              - generic [ref=e178] [cursor=pointer]:
+                - generic [ref=e179] [cursor=pointer]: Sat, 27 Sep, 7:00 PM
+                - heading "Bollywood Dandiya Night" [level=5] [ref=e180] [cursor=pointer]
+                - generic [ref=e181] [cursor=pointer]: PSOI club, nehru park, chanakyapuri, Delhi/NCR
+                - generic [ref=e182] [cursor=pointer]: ₹1299 onwards
+            - link "Sat, 13 Dec, 8:00 PM Jalisco’s Power-Packed Night ft. Resham Anmol Live Jalisco Brews & Bites, Greater Noida ₹699 onwards" [ref=e183] [cursor=pointer]:
+              - /url: https://www.district.in/events/jaliscos-powerpacked-night-ft-resham-anmol-live-dec13-2025-buy-tickets
+              - generic [ref=e187] [cursor=pointer]:
+                - generic [ref=e188] [cursor=pointer]: Sat, 13 Dec, 8:00 PM
+                - heading "Jalisco’s Power-Packed Night ft. Resham Anmol Live" [level=5] [ref=e189] [cursor=pointer]
+                - generic [ref=e190] [cursor=pointer]: Jalisco Brews & Bites, Greater Noida
+                - generic [ref=e191] [cursor=pointer]: ₹699 onwards
+            - link "Sat, 04 Oct, 5:00 PM Mulaqat - A Mindfulness Evening Jamistan Music and Dance Academy | JAMPAD, Delhi/NCR ₹199" [ref=e192] [cursor=pointer]:
+              - /url: https://www.district.in/events/mulaqata-mindfulness-evening-oct4-2025-buy-tickets
+              - generic [ref=e196] [cursor=pointer]:
+                - generic [ref=e197] [cursor=pointer]: Sat, 04 Oct, 5:00 PM
+                - heading "Mulaqat - A Mindfulness Evening" [level=5] [ref=e198] [cursor=pointer]
+                - generic [ref=e199] [cursor=pointer]: Jamistan Music and Dance Academy | JAMPAD, Delhi/NCR
+                - generic [ref=e200] [cursor=pointer]: ₹199
+          - button [ref=e201] [cursor=pointer]
+      - generic [ref=e203]:
+        - generic [ref=e207]: Hits from previous weeks
+        - generic [ref=e208]:
+          - link "Jolly LLB 3 UA16+ | Hindi" [ref=e209] [cursor=pointer]:
+            - /url: https://www.district.in/movies/jolly-llb-3-movie-tickets-in-gurgaon-MV172789
+            - generic [ref=e213] [cursor=pointer]:
+              - heading "Jolly LLB 3" [level=5] [ref=e214] [cursor=pointer]
+              - generic [ref=e215] [cursor=pointer]: UA16+ | Hindi
+          - 'link "Demon Slayer: Kimetsu no Yaiba Infinity Castle UA13+ | Japanese and 2 more" [ref=e216] [cursor=pointer]':
+            - /url: https://www.district.in/movies/demon-slayer-kimetsu-no-yaiba-infinity-castle-movie-tickets-in-gurgaon-MV191860
+            - generic [ref=e220] [cursor=pointer]:
+              - 'heading "Demon Slayer: Kimetsu no Yaiba Infinity Castle" [level=5] [ref=e221] [cursor=pointer]'
+              - generic [ref=e222] [cursor=pointer]: UA13+ | Japanese and 2 more
+          - 'link "The Conjuring: Last Rites A | Hindi and 1 more" [ref=e223] [cursor=pointer]':
+            - /url: https://www.district.in/movies/the-conjuring-last-rites-movie-tickets-in-gurgaon-MV175734
+            - generic [ref=e227] [cursor=pointer]:
+              - 'heading "The Conjuring: Last Rites" [level=5] [ref=e228] [cursor=pointer]'
+              - generic [ref=e229] [cursor=pointer]: A | Hindi and 1 more
+          - link "Mirai UA16+ | Hindi and 1 more" [ref=e230] [cursor=pointer]:
+            - /url: https://www.district.in/movies/mirai-movie-tickets-in-gurgaon-MV172573
+            - generic [ref=e234] [cursor=pointer]:
+              - heading "Mirai" [level=5] [ref=e235] [cursor=pointer]
+              - generic [ref=e236] [cursor=pointer]: UA16+ | Hindi and 1 more
+      - generic [ref=e237]:
+        - generic [ref=e241]: India’s Top Events
+        - generic [ref=e242]:
+          - generic [ref=e243]:
+            - link "Sat, 27 Sep – Sun, 28 Sep, 2:00 PM The Great Indian Garba Fest 2.0 NSIC Exhibition Ground Gate 6, Delhi/NCR ₹999 onwards" [ref=e244] [cursor=pointer]:
+              - /url: https://www.district.in/events/the-great-indian-garba-2-2025-buy-tickets
+              - generic [ref=e248] [cursor=pointer]:
+                - generic [ref=e249] [cursor=pointer]: Sat, 27 Sep – Sun, 28 Sep, 2:00 PM
+                - heading "The Great Indian Garba Fest 2.0" [level=5] [ref=e250] [cursor=pointer]
+                - generic [ref=e251] [cursor=pointer]: NSIC Exhibition Ground Gate 6, Delhi/NCR
+                - generic [ref=e252] [cursor=pointer]: ₹999 onwards
+            - link "Sun, 28 Sep, 4:00 PM Rock N Dhol Shubharambh – Delhi's Biggest Disco Dandiya Festival | Navratri 2025 Jawaharlal Nehru Stadium Delhi Gate 2, Delhi/NCR ₹1499 onwards" [ref=e253] [cursor=pointer]:
+              - /url: https://www.district.in/events/rock-n-dhol-shubharambh-delhis-biggest-disco-dandiya-festival-navratri-2025-buy-tickets
+              - generic [ref=e257] [cursor=pointer]:
+                - generic [ref=e258] [cursor=pointer]: Sun, 28 Sep, 4:00 PM
+                - heading "Rock N Dhol Shubharambh – Delhi's Biggest Disco Dandiya Festival | Navratri 2025" [level=5] [ref=e259] [cursor=pointer]
+                - generic [ref=e260] [cursor=pointer]: Jawaharlal Nehru Stadium Delhi Gate 2, Delhi/NCR
+                - generic [ref=e261] [cursor=pointer]: ₹1499 onwards
+            - link "Sun, 28 Sep, 6:00 PM Global Garba Festival 2025 Sunder Nursery, Delhi/NCR ₹1199 onwards" [ref=e262] [cursor=pointer]:
+              - /url: https://www.district.in/events/global-garba-festival-2025-sep26-2025-buy-tickets
+              - generic [ref=e266] [cursor=pointer]:
+                - generic [ref=e267] [cursor=pointer]: Sun, 28 Sep, 6:00 PM
+                - heading "Global Garba Festival 2025" [level=5] [ref=e268] [cursor=pointer]
+                - generic [ref=e269] [cursor=pointer]: Sunder Nursery, Delhi/NCR
+                - generic [ref=e270] [cursor=pointer]: ₹1199 onwards
+            - link "Sat, 27 Sep – Sun, 28 Sep, 6:00 PM Pacific Dandiya Nights Pacific Mall Tagore Garden, Delhi/NCR ₹5000" [ref=e271] [cursor=pointer]:
+              - /url: https://www.district.in/events/pacific-dandiya-nights-sep26-2025-buy-tickets
+              - generic [ref=e275] [cursor=pointer]:
+                - generic [ref=e276] [cursor=pointer]: Sat, 27 Sep – Sun, 28 Sep, 6:00 PM
+                - heading "Pacific Dandiya Nights" [level=5] [ref=e277] [cursor=pointer]
+                - generic [ref=e278] [cursor=pointer]: Pacific Mall Tagore Garden, Delhi/NCR
+                - generic [ref=e279] [cursor=pointer]: ₹5000
+            - link "Sat, 27 Sep, 7:00 PM Dandiya Nights at Rcube Monad Mall | Noida Rcube Monad Noida, Noida ₹1499" [ref=e280] [cursor=pointer]:
+              - /url: https://www.district.in/events/dandiya-nights-at-rcube-monad-mall-noida-sep26-2025-buy-tickets
+              - generic [ref=e284] [cursor=pointer]:
+                - generic [ref=e285] [cursor=pointer]: Sat, 27 Sep, 7:00 PM
+                - heading "Dandiya Nights at Rcube Monad Mall | Noida" [level=5] [ref=e286] [cursor=pointer]
+                - generic [ref=e287] [cursor=pointer]: Rcube Monad Noida, Noida
+                - generic [ref=e288] [cursor=pointer]: ₹1499
+            - link "September 27 | 8PM Onwards Maa No Garbo by DJ Toyota Sargam farm, Ahmedabad ₹2000" [ref=e289] [cursor=pointer]:
+              - /url: https://www.district.in/events/maa-no-garbo-by-dj-toyota-sep27-2025-buy-tickets
+              - generic [ref=e293] [cursor=pointer]:
+                - generic [ref=e294] [cursor=pointer]: September 27 | 8PM Onwards
+                - heading "Maa No Garbo by DJ Toyota" [level=5] [ref=e295] [cursor=pointer]
+                - generic [ref=e296] [cursor=pointer]: Sargam farm, Ahmedabad
+                - generic [ref=e297] [cursor=pointer]: ₹2000
+            - link "October 11 | 7:30PM 70th Hyundai Filmfare Awards 2025 with Gujarat Tourism EKA Arena, Ahmedabad ₹5000 onwards" [ref=e298] [cursor=pointer]:
+              - /url: https://www.district.in/events/70th-hyundai-filmfare-awards-2025-with-gujarat-tourism-buy-tickets
+              - generic [ref=e302] [cursor=pointer]:
+                - generic [ref=e303] [cursor=pointer]: October 11 | 7:30PM
+                - heading "70th Hyundai Filmfare Awards 2025 with Gujarat Tourism" [level=5] [ref=e304] [cursor=pointer]
+                - generic [ref=e305] [cursor=pointer]: EKA Arena, Ahmedabad
+                - generic [ref=e306] [cursor=pointer]: ₹5000 onwards
+            - link "offer Pay only 50% to reserve your tickets 22 Nov - 23 Nov, 3PM Rolling Loud India | Hip-Hop Festival | Karan Aujla, Central Cee Loud Park, Kharghar, Mumbai ₹7000 onwards" [ref=e307] [cursor=pointer]:
+              - /url: https://www.district.in/events/rolling-loud-india-buy-tickets
+              - generic [ref=e309] [cursor=pointer]:
+                - generic [ref=e311] [cursor=pointer]:
+                  - img "offer" [ref=e312] [cursor=pointer]
+                  - generic [ref=e313] [cursor=pointer]: Pay only 50% to reserve your tickets
+                - generic [ref=e314] [cursor=pointer]:
+                  - generic [ref=e315] [cursor=pointer]: 22 Nov - 23 Nov, 3PM
+                  - heading "Rolling Loud India | Hip-Hop Festival | Karan Aujla, Central Cee" [level=5] [ref=e316] [cursor=pointer]
+                  - generic [ref=e317] [cursor=pointer]: Loud Park, Kharghar, Mumbai
+                  - generic [ref=e318] [cursor=pointer]: ₹7000 onwards
+            - link "offer Pay only 50% to reserve your tickets Wed, 29 Oct, 6:30 PM Enrique Iglesias Live in Concert - New Show MMRDA Grounds, Mumbai ₹5000 onwards" [ref=e319] [cursor=pointer]:
+              - /url: https://www.district.in/events/enrique-iglesias-live-in-concert-second-show-2025-buy-tickets
+              - generic [ref=e321] [cursor=pointer]:
+                - generic [ref=e323] [cursor=pointer]:
+                  - img "offer" [ref=e324] [cursor=pointer]
+                  - generic [ref=e325] [cursor=pointer]: Pay only 50% to reserve your tickets
+                - generic [ref=e326] [cursor=pointer]:
+                  - generic [ref=e327] [cursor=pointer]: Wed, 29 Oct, 6:30 PM
+                  - heading "Enrique Iglesias Live in Concert - New Show" [level=5] [ref=e328] [cursor=pointer]
+                  - generic [ref=e329] [cursor=pointer]: MMRDA Grounds, Mumbai
+                  - generic [ref=e330] [cursor=pointer]: ₹5000 onwards
+            - link "Sun, 23 Nov, 5:00 PM A.R. Rahman Live in Pune Maharashtra Cricket Association Stadium, Pune ₹1499 onwards" [ref=e331] [cursor=pointer]:
+              - /url: https://www.district.in/events/a-r-rahman-live-in-pune-november-buy-tickets
+              - generic [ref=e335] [cursor=pointer]:
+                - generic [ref=e336] [cursor=pointer]: Sun, 23 Nov, 5:00 PM
+                - heading "A.R. Rahman Live in Pune" [level=5] [ref=e337] [cursor=pointer]
+                - generic [ref=e338] [cursor=pointer]: Maharashtra Cricket Association Stadium, Pune
+                - generic [ref=e339] [cursor=pointer]: ₹1499 onwards
+            - link "Sat, 06 Dec, 7:00 PM Sunidhi Chauhan I Am Home | Live in Pune Suryakant Kakade Farms, Pune ₹1399 onwards" [ref=e340] [cursor=pointer]:
+              - /url: https://www.district.in/events/sunidhi-chauhan-i-am-home-live-in-pune-dec-2025-buy-tickets
+              - generic [ref=e344] [cursor=pointer]:
+                - generic [ref=e345] [cursor=pointer]: Sat, 06 Dec, 7:00 PM
+                - heading "Sunidhi Chauhan I Am Home | Live in Pune" [level=5] [ref=e346] [cursor=pointer]
+                - generic [ref=e347] [cursor=pointer]: Suryakant Kakade Farms, Pune
+                - generic [ref=e348] [cursor=pointer]: ₹1399 onwards
+            - link "Sat, 25 Oct, 7:00 PM Quake Halloween Nights ft. Talwiinder Quake Arena, Hyderabad ₹1199 onwards" [ref=e349] [cursor=pointer]:
+              - /url: https://www.district.in/events/quake-halloween-nights-ft-talwiinder-sep25-2025-buy-tickets
+              - generic [ref=e353] [cursor=pointer]:
+                - generic [ref=e354] [cursor=pointer]: Sat, 25 Oct, 7:00 PM
+                - heading "Quake Halloween Nights ft. Talwiinder" [level=5] [ref=e355] [cursor=pointer]
+                - generic [ref=e356] [cursor=pointer]: Quake Arena, Hyderabad
+                - generic [ref=e357] [cursor=pointer]: ₹1199 onwards
+          - button [ref=e358] [cursor=pointer]
+      - generic [ref=e360]:
+        - generic [ref=e364]: Premiering this week
+        - generic [ref=e365]:
+          - link "Shin Chan The Spicy Kasukabe Dancers in India U | Hindi" [ref=e366] [cursor=pointer]:
+            - /url: https://www.district.in/movies/shin-chan-the-spicy-kasukabe-dancers-in-india-movie-tickets-in-gurgaon-MV198610
+            - generic [ref=e370] [cursor=pointer]:
+              - heading "Shin Chan The Spicy Kasukabe Dancers in India" [level=5] [ref=e371] [cursor=pointer]
+              - generic [ref=e372] [cursor=pointer]: U | Hindi
+          - 'link "Chainsaw Man - The Movie: Reze Arc A | Japanese and 1 more" [ref=e373] [cursor=pointer]':
+            - /url: https://www.district.in/movies/chainsaw-man-the-movie-reze-arc-movie-tickets-in-gurgaon-MV199354
+            - generic [ref=e377] [cursor=pointer]:
+              - 'heading "Chainsaw Man - The Movie: Reze Arc" [level=5] [ref=e378] [cursor=pointer]'
+              - generic [ref=e379] [cursor=pointer]: A | Japanese and 1 more
+          - link "One Battle After Another A | English" [ref=e380] [cursor=pointer]:
+            - /url: https://www.district.in/movies/one-battle-after-another-movie-tickets-in-gurgaon-MV194432
+            - generic [ref=e384] [cursor=pointer]:
+              - heading "One Battle After Another" [level=5] [ref=e385] [cursor=pointer]
+              - generic [ref=e386] [cursor=pointer]: A | English
+          - link "Homebound UA16+ | Hindi" [ref=e387] [cursor=pointer]:
+            - /url: https://www.district.in/movies/homebound-movie-tickets-in-gurgaon-MV206138
+            - generic [ref=e391] [cursor=pointer]:
+              - heading "Homebound" [level=5] [ref=e392] [cursor=pointer]
+              - generic [ref=e393] [cursor=pointer]: UA16+ | Hindi
+      - generic [ref=e394]:
+        - generic [ref=e398]: Happening this week
+        - generic [ref=e399]:
+          - generic [ref=e400]:
+            - link "Daily, 7:00 AM onwards Paramotoring at SkyThrill SkyThrill Paragliding Gurgaon NCR, Gurugram ₹1499 onwards" [ref=e401] [cursor=pointer]:
+              - /url: https://www.district.in/events/paramotoring-at-skythrill-2025-buy-tickets
+              - generic [ref=e405] [cursor=pointer]:
+                - generic [ref=e406] [cursor=pointer]: Daily, 7:00 AM onwards
+                - heading "Paramotoring at SkyThrill" [level=5] [ref=e407] [cursor=pointer]
+                - generic [ref=e408] [cursor=pointer]: SkyThrill Paragliding Gurgaon NCR, Gurugram
+                - generic [ref=e409] [cursor=pointer]: ₹1499 onwards
+            - link "offer 20% off up to ₹150 Daily, 9:00 AM onwards E-O-D Adventure Park E-O-D Adventure Park, Delhi/NCR ₹399 onwards" [ref=e410] [cursor=pointer]:
+              - /url: https://www.district.in/events/eod-adventure-park-2025-buy-tickets
+              - generic [ref=e412] [cursor=pointer]:
+                - generic [ref=e414] [cursor=pointer]:
+                  - img "offer" [ref=e415] [cursor=pointer]
+                  - generic [ref=e416] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e417] [cursor=pointer]:
+                  - generic [ref=e418] [cursor=pointer]: Daily, 9:00 AM onwards
+                  - heading "E-O-D Adventure Park" [level=5] [ref=e419] [cursor=pointer]
+                  - generic [ref=e420] [cursor=pointer]: E-O-D Adventure Park, Delhi/NCR
+                  - generic [ref=e421] [cursor=pointer]: ₹399 onwards
+            - 'link "offer 20% off up to ₹150 Daily, 10:00 AM onwards Kids Play Zone: The Funny Mouse The Funny Mouse | Play Area, Gurugram ₹800" [ref=e422] [cursor=pointer]':
+              - /url: https://www.district.in/events/kids-play-zone-the-funny-mouse-2025-buy-tickets
+              - generic [ref=e424] [cursor=pointer]:
+                - generic [ref=e426] [cursor=pointer]:
+                  - img "offer" [ref=e427] [cursor=pointer]
+                  - generic [ref=e428] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e429] [cursor=pointer]:
+                  - generic [ref=e430] [cursor=pointer]: Daily, 10:00 AM onwards
+                  - 'heading "Kids Play Zone: The Funny Mouse" [level=5] [ref=e431] [cursor=pointer]'
+                  - generic [ref=e432] [cursor=pointer]: The Funny Mouse | Play Area, Gurugram
+                  - generic [ref=e433] [cursor=pointer]: ₹800
+            - link "offer 20% off up to ₹200 Sat, 27 Sept – Mon, 6 Oct, 10:00 AM Yansh Adventure Motorsports | Gurugram Yansh Adventure Motorsports Gurugram, Gurugram ₹590 onwards" [ref=e434] [cursor=pointer]:
+              - /url: https://www.district.in/events/yansh-adventure-motorsports-gurugram-aug-2025-buy-tickets
+              - generic [ref=e436] [cursor=pointer]:
+                - generic [ref=e438] [cursor=pointer]:
+                  - img "offer" [ref=e439] [cursor=pointer]
+                  - generic [ref=e440] [cursor=pointer]: 20% off up to ₹200
+                - generic [ref=e441] [cursor=pointer]:
+                  - generic [ref=e442] [cursor=pointer]: Sat, 27 Sept – Mon, 6 Oct, 10:00 AM
+                  - heading "Yansh Adventure Motorsports | Gurugram" [level=5] [ref=e443] [cursor=pointer]
+                  - generic [ref=e444] [cursor=pointer]: Yansh Adventure Motorsports Gurugram, Gurugram
+                  - generic [ref=e445] [cursor=pointer]: ₹590 onwards
+            - link "offer 20% off up to ₹150 Sat, 27 Sept – Sun, 5 Oct, 10:00 AM Worlds of Wonder (WOW) - Water Park Worlds of Wonder, Noida ₹149 onwards" [ref=e446] [cursor=pointer]:
+              - /url: https://www.district.in/events/worlds-of-wonder-wow-water-park-2025-buy-tickets
+              - generic [ref=e448] [cursor=pointer]:
+                - generic [ref=e450] [cursor=pointer]:
+                  - img "offer" [ref=e451] [cursor=pointer]
+                  - generic [ref=e452] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e453] [cursor=pointer]:
+                  - generic [ref=e454] [cursor=pointer]: Sat, 27 Sept – Sun, 5 Oct, 10:00 AM
+                  - heading "Worlds of Wonder (WOW) - Water Park" [level=5] [ref=e455] [cursor=pointer]
+                  - generic [ref=e456] [cursor=pointer]: Worlds of Wonder, Noida
+                  - generic [ref=e457] [cursor=pointer]: ₹149 onwards
+            - link "offer 20% off up to ₹200 Sat, 27 Sept onwards, Multiple Dates KidZania | Delhi NCR KidZania Delhi NCR, Noida ₹708 onwards" [ref=e458] [cursor=pointer]:
+              - /url: https://www.district.in/events/kidzania-delhi-ncr-buy-tickets
+              - generic [ref=e460] [cursor=pointer]:
+                - generic [ref=e462] [cursor=pointer]:
+                  - img "offer" [ref=e463] [cursor=pointer]
+                  - generic [ref=e464] [cursor=pointer]: 20% off up to ₹200
+                - generic [ref=e465] [cursor=pointer]:
+                  - generic [ref=e466] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                  - heading "KidZania | Delhi NCR" [level=5] [ref=e467] [cursor=pointer]
+                  - generic [ref=e468] [cursor=pointer]: KidZania Delhi NCR, Noida
+                  - generic [ref=e469] [cursor=pointer]: ₹708 onwards
+            - link "offer 20% off up to ₹150 Sat, 27 Sept – Tue, 30 Sept, 10:00 AM Game Hour Game Hour - Snooker & PS-5 Games, Gurugram ₹200" [ref=e470] [cursor=pointer]:
+              - /url: https://www.district.in/events/game-hour-2025-buy-tickets
+              - generic [ref=e472] [cursor=pointer]:
+                - generic [ref=e474] [cursor=pointer]:
+                  - img "offer" [ref=e475] [cursor=pointer]
+                  - generic [ref=e476] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e477] [cursor=pointer]:
+                  - generic [ref=e478] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, 10:00 AM
+                  - heading "Game Hour" [level=5] [ref=e479] [cursor=pointer]
+                  - generic [ref=e480] [cursor=pointer]: Game Hour - Snooker & PS-5 Games, Gurugram
+                  - generic [ref=e481] [cursor=pointer]: ₹200
+            - link "offer 20% off up to ₹150 Daily, 10:00 AM onwards Bumble Tumble | Sector 83 Bumble Tumble 83, Gurugram ₹499 onwards" [ref=e482] [cursor=pointer]:
+              - /url: https://www.district.in/events/bumble-tumble-sector-83-jul-2025-buy-tickets
+              - generic [ref=e484] [cursor=pointer]:
+                - generic [ref=e486] [cursor=pointer]:
+                  - img "offer" [ref=e487] [cursor=pointer]
+                  - generic [ref=e488] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e489] [cursor=pointer]:
+                  - generic [ref=e490] [cursor=pointer]: Daily, 10:00 AM onwards
+                  - heading "Bumble Tumble | Sector 83" [level=5] [ref=e491] [cursor=pointer]
+                  - generic [ref=e492] [cursor=pointer]: Bumble Tumble 83, Gurugram
+                  - generic [ref=e493] [cursor=pointer]: ₹499 onwards
+            - link "offer 30% off up to ₹300 Sat, 27 Sept – Tue, 30 Sept, Multiple slots Sky Jumper Trampoline Park | ILD Gurugram SkyJumper Trampoline Park - Gurgaon, ILD Trade Centre, Gurugram ₹490 onwards" [ref=e494] [cursor=pointer]:
+              - /url: https://www.district.in/events/sky-jumper-trampoline-park-ild-gurgaon-2025-buy-tickets
+              - generic [ref=e496] [cursor=pointer]:
+                - generic [ref=e498] [cursor=pointer]:
+                  - img "offer" [ref=e499] [cursor=pointer]
+                  - generic [ref=e500] [cursor=pointer]: 30% off up to ₹300
+                - generic [ref=e501] [cursor=pointer]:
+                  - generic [ref=e502] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, Multiple slots
+                  - heading "Sky Jumper Trampoline Park | ILD Gurugram" [level=5] [ref=e503] [cursor=pointer]
+                  - generic [ref=e504] [cursor=pointer]: SkyJumper Trampoline Park - Gurgaon, ILD Trade Centre, Gurugram
+                  - generic [ref=e505] [cursor=pointer]: ₹490 onwards
+            - link "Sat, 27 Sep – Sun, 28 Sep, 10:00 AM Kala Connect Art Exhibition 2025 | Vol. 2 NSIC Exhibition Ground Gate 6, Delhi/NCR ₹50" [ref=e506] [cursor=pointer]:
+              - /url: https://www.district.in/events/kala-connect-art-exhibition-2025-vol-2-sep26-2025-buy-tickets
+              - generic [ref=e510] [cursor=pointer]:
+                - generic [ref=e511] [cursor=pointer]: Sat, 27 Sep – Sun, 28 Sep, 10:00 AM
+                - heading "Kala Connect Art Exhibition 2025 | Vol. 2" [level=5] [ref=e512] [cursor=pointer]
+                - generic [ref=e513] [cursor=pointer]: NSIC Exhibition Ground Gate 6, Delhi/NCR
+                - generic [ref=e514] [cursor=pointer]: ₹50
+            - link "offer 20% off up to ₹350 Daily, 10:00 AM onwards Jumpoline Trampoline Park | Gurugram JUMPOLINE, Gurugram ₹700 onwards" [ref=e515] [cursor=pointer]:
+              - /url: https://www.district.in/events/jumpoline-trampoline-park-sector-69-gurugram-jul-2025-buy-tickets
+              - generic [ref=e517] [cursor=pointer]:
+                - generic [ref=e519] [cursor=pointer]:
+                  - img "offer" [ref=e520] [cursor=pointer]
+                  - generic [ref=e521] [cursor=pointer]: 20% off up to ₹350
+                - generic [ref=e522] [cursor=pointer]:
+                  - generic [ref=e523] [cursor=pointer]: Daily, 10:00 AM onwards
+                  - heading "Jumpoline Trampoline Park | Gurugram" [level=5] [ref=e524] [cursor=pointer]
+                  - generic [ref=e525] [cursor=pointer]: JUMPOLINE, Gurugram
+                  - generic [ref=e526] [cursor=pointer]: ₹700 onwards
+            - link "offer Flat 50% off on Trampoline Pass Daily, Multiple slots Zooper India Trampoline Park Zooper India Trampoline Park Gurgaon, Gurugram ₹300 onwards" [ref=e527] [cursor=pointer]:
+              - /url: https://www.district.in/events/zooper-india-trampoline-park-2025-buy-tickets
+              - generic [ref=e529] [cursor=pointer]:
+                - generic [ref=e531] [cursor=pointer]:
+                  - img "offer" [ref=e532] [cursor=pointer]
+                  - generic [ref=e533] [cursor=pointer]: Flat 50% off on Trampoline Pass
+                - generic [ref=e534] [cursor=pointer]:
+                  - generic [ref=e535] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Zooper India Trampoline Park" [level=5] [ref=e536] [cursor=pointer]
+                  - generic [ref=e537] [cursor=pointer]: Zooper India Trampoline Park Gurgaon, Gurugram
+                  - generic [ref=e538] [cursor=pointer]: ₹300 onwards
+          - button [ref=e539] [cursor=pointer]
+      - generic [ref=e541]:
+        - generic [ref=e545]: Best in Comedy
+        - generic [ref=e546]:
+          - generic [ref=e547]:
+            - link "Sat, 27 Sept onwards, Multiple Dates Standup in Hauz Khas - A Standup Comedy Lineup LIGHT ROOM, Delhi/NCR ₹299 onwards" [ref=e548] [cursor=pointer]:
+              - /url: https://www.district.in/events/clean-comedy-night-may25-2024-buy-tickets
+              - generic [ref=e552] [cursor=pointer]:
+                - generic [ref=e553] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                - heading "Standup in Hauz Khas - A Standup Comedy Lineup" [level=5] [ref=e554] [cursor=pointer]
+                - generic [ref=e555] [cursor=pointer]: LIGHT ROOM, Delhi/NCR
+                - generic [ref=e556] [cursor=pointer]: ₹299 onwards
+            - link "Sun, 28 Sep, 9:00 PM Men ki Baat Owncomedyhouse, Noida ₹199 onwards" [ref=e557] [cursor=pointer]:
+              - /url: https://www.district.in/events/men-ki-baat-sep28-2025-buy-tickets
+              - generic [ref=e561] [cursor=pointer]:
+                - generic [ref=e562] [cursor=pointer]: Sun, 28 Sep, 9:00 PM
+                - heading "Men ki Baat" [level=5] [ref=e563] [cursor=pointer]
+                - generic [ref=e564] [cursor=pointer]: Owncomedyhouse, Noida
+                - generic [ref=e565] [cursor=pointer]: ₹199 onwards
+            - link "Sat, 27 Sep, 8:00 PM Confidence | Standup Comedy Show by Ravi Khurana The Mic room, Noida ₹199 onwards" [ref=e566] [cursor=pointer]:
+              - /url: https://www.district.in/events/confidence-standup-comedy-show-by-ravi-khurana-sep27-2025-buy-tickets
+              - generic [ref=e570] [cursor=pointer]:
+                - generic [ref=e571] [cursor=pointer]: Sat, 27 Sep, 8:00 PM
+                - heading "Confidence | Standup Comedy Show by Ravi Khurana" [level=5] [ref=e572] [cursor=pointer]
+                - generic [ref=e573] [cursor=pointer]: The Mic room, Noida
+                - generic [ref=e574] [cursor=pointer]: ₹199 onwards
+            - link "Sat, 27 Sept – Fri, 10 Oct, Multiple slots Comedy Show Night at Noida Sec 18 Comedy Club Sector 18 Noida, Noida ₹299 onwards" [ref=e575] [cursor=pointer]:
+              - /url: https://www.district.in/events/comedy-show-night-noida-sec-18-jul25-2025-buy-tickets
+              - generic [ref=e579] [cursor=pointer]:
+                - generic [ref=e580] [cursor=pointer]: Sat, 27 Sept – Fri, 10 Oct, Multiple slots
+                - heading "Comedy Show Night at Noida Sec 18" [level=5] [ref=e581] [cursor=pointer]
+                - generic [ref=e582] [cursor=pointer]: Comedy Club Sector 18 Noida, Noida
+                - generic [ref=e583] [cursor=pointer]: ₹299 onwards
+            - link "Sat, 27 Sept – Sat, 4 Oct, Multiple slots The Late Night Comedy Show Guftagu Cafe, Gurugram ₹299" [ref=e584] [cursor=pointer]:
+              - /url: https://www.district.in/events/the-late-night-comedy-show-sep24-2025-buy-tickets
+              - generic [ref=e588] [cursor=pointer]:
+                - generic [ref=e589] [cursor=pointer]: Sat, 27 Sept – Sat, 4 Oct, Multiple slots
+                - heading "The Late Night Comedy Show" [level=5] [ref=e590] [cursor=pointer]
+                - generic [ref=e591] [cursor=pointer]: Guftagu Cafe, Gurugram
+                - generic [ref=e592] [cursor=pointer]: ₹299
+            - link "Sun, 28 Sept onwards, Multiple Dates Vishal Tyagi Live | Stand Up Solo Mic On Studio ( MOS ), Delhi/NCR ₹199 onwards" [ref=e593] [cursor=pointer]:
+              - /url: https://www.district.in/events/naughty-america-stand-up-solo-sep5-2025-buy-tickets
+              - generic [ref=e597] [cursor=pointer]:
+                - generic [ref=e598] [cursor=pointer]: Sun, 28 Sept onwards, Multiple Dates
+                - heading "Vishal Tyagi Live | Stand Up Solo" [level=5] [ref=e599] [cursor=pointer]
+                - generic [ref=e600] [cursor=pointer]: Mic On Studio ( MOS ), Delhi/NCR
+                - generic [ref=e601] [cursor=pointer]: ₹199 onwards
+            - link "Sun, 28 Sep onwards, Multiple Dates Tinder Tantrums ft Surprise Acts The Spotlight Studio, Delhi/NCR ₹199 onwards" [ref=e602] [cursor=pointer]:
+              - /url: https://www.district.in/events/tinder-tantrums-ft-surprise-acts-sep26-2025-buy-tickets
+              - generic [ref=e606] [cursor=pointer]:
+                - generic [ref=e607] [cursor=pointer]: Sun, 28 Sep onwards, Multiple Dates
+                - heading "Tinder Tantrums ft Surprise Acts" [level=5] [ref=e608] [cursor=pointer]
+                - generic [ref=e609] [cursor=pointer]: The Spotlight Studio, Delhi/NCR
+                - generic [ref=e610] [cursor=pointer]: ₹199 onwards
+            - link "Sun, 28 Sep, 4:00 PM Engineer Khatre Me Hai | A Standup Comedy Show Unmukt Studio, Delhi/NCR ₹349 onwards" [ref=e611] [cursor=pointer]:
+              - /url: https://www.district.in/events/engineer-khatre-me-hai-a-standup-comedy-show-jun15-2025-buy-tickets
+              - generic [ref=e615] [cursor=pointer]:
+                - generic [ref=e616] [cursor=pointer]: Sun, 28 Sep, 4:00 PM
+                - heading "Engineer Khatre Me Hai | A Standup Comedy Show" [level=5] [ref=e617] [cursor=pointer]
+                - generic [ref=e618] [cursor=pointer]: Unmukt Studio, Delhi/NCR
+                - generic [ref=e619] [cursor=pointer]: ₹349 onwards
+            - 'link "Sat, 27 Sep, 8:00 PM Date Night : Crowd Work | Game Show by Siddharth Happy High, Delhi/NCR ₹299 onwards" [ref=e620] [cursor=pointer]':
+              - /url: https://www.district.in/events/date-night-crowd-work-game-show-by-siddharth-sep27-2025-buy-tickets
+              - generic [ref=e624] [cursor=pointer]:
+                - generic [ref=e625] [cursor=pointer]: Sat, 27 Sep, 8:00 PM
+                - 'heading "Date Night : Crowd Work | Game Show by Siddharth" [level=5] [ref=e626] [cursor=pointer]'
+                - generic [ref=e627] [cursor=pointer]: Happy High, Delhi/NCR
+                - generic [ref=e628] [cursor=pointer]: ₹299 onwards
+            - link "Sun, 28 Sep, 4:00 PM 100% Veg Jokes The Piano Man Jazz Club, Delhi/NCR ₹349" [ref=e629] [cursor=pointer]:
+              - /url: https://www.district.in/events/100-veg-jokes-aug17-2025-buy-tickets
+              - generic [ref=e633] [cursor=pointer]:
+                - generic [ref=e634] [cursor=pointer]: Sun, 28 Sep, 4:00 PM
+                - heading "100% Veg Jokes" [level=5] [ref=e635] [cursor=pointer]
+                - generic [ref=e636] [cursor=pointer]: The Piano Man Jazz Club, Delhi/NCR
+                - generic [ref=e637] [cursor=pointer]: ₹349
+          - button [ref=e638] [cursor=pointer]
+      - generic [ref=e640]:
+        - generic [ref=e644]: Best of English movies
+        - generic [ref=e645]:
+          - link "One Battle After Another A | English" [ref=e646] [cursor=pointer]:
+            - /url: https://www.district.in/movies/one-battle-after-another-movie-tickets-in-gurgaon-MV194432
+            - generic [ref=e650] [cursor=pointer]:
+              - heading "One Battle After Another" [level=5] [ref=e651] [cursor=pointer]
+              - generic [ref=e652] [cursor=pointer]: A | English
+          - link "Jurassic World Rebirth UA13+ | English" [ref=e653] [cursor=pointer]:
+            - /url: https://www.district.in/movies/jurassic-world-rebirth-movie-tickets-in-gurgaon-MV178018
+            - generic [ref=e657] [cursor=pointer]:
+              - heading "Jurassic World Rebirth" [level=5] [ref=e658] [cursor=pointer]
+              - generic [ref=e659] [cursor=pointer]: UA13+ | English
+          - 'link "The Fantastic Four: First Steps UA13+ | English" [ref=e660] [cursor=pointer]':
+            - /url: https://www.district.in/movies/the-fantastic-four-first-steps-movie-tickets-in-gurgaon-MV178023
+            - generic [ref=e664] [cursor=pointer]:
+              - 'heading "The Fantastic Four: First Steps" [level=5] [ref=e665] [cursor=pointer]'
+              - generic [ref=e666] [cursor=pointer]: UA13+ | English
+          - link "Lilo & Stitch U | English" [ref=e667] [cursor=pointer]:
+            - /url: https://www.district.in/movies/lilo-stitch-movie-tickets-in-gurgaon-MV185012
+            - generic [ref=e671] [cursor=pointer]:
+              - heading "Lilo & Stitch" [level=5] [ref=e672] [cursor=pointer]
+              - generic [ref=e673] [cursor=pointer]: U | English
+      - generic [ref=e674]:
+        - generic [ref=e678]: Sports Mania
+        - generic [ref=e680]:
+          - 'link "Wed, 22 Oct, 7:30 PM PKL 2025: Haryana Steelers vs Telugu Titans and Bengaluru Bulls vs Bengal Warriorz and Dabang Delhi K.C. vs Patna Pirates Thyagaraj stadium, Delhi/NCR ₹200 onwards" [ref=e681] [cursor=pointer]':
+            - /url: https://www.district.in/events/pkl-2025-haryana-steelers-vs-telugu-titans-and-bengaluru-bulls-vs-bengal-warriorz-and-dabang-delhi-kc-vs-patna-pirates-buy-tickets
+            - generic [ref=e685] [cursor=pointer]:
+              - generic [ref=e686] [cursor=pointer]: Wed, 22 Oct, 7:30 PM
+              - 'heading "PKL 2025: Haryana Steelers vs Telugu Titans and Bengaluru Bulls vs Bengal Warriorz and Dabang Delhi K.C. vs Patna Pirates" [level=5] [ref=e687] [cursor=pointer]'
+              - generic [ref=e688] [cursor=pointer]: Thyagaraj stadium, Delhi/NCR
+              - generic [ref=e689] [cursor=pointer]: ₹200 onwards
+          - link "Sun, 28 Sep, 9:00 AM RDS Boxing Showdown Titiksha Public School, Delhi/NCR ₹249 onwards" [ref=e690] [cursor=pointer]:
+            - /url: https://www.district.in/events/rds-boxing-showdown-jun21-2025-buy-tickets
+            - generic [ref=e694] [cursor=pointer]:
+              - generic [ref=e695] [cursor=pointer]: Sun, 28 Sep, 9:00 AM
+              - heading "RDS Boxing Showdown" [level=5] [ref=e696] [cursor=pointer]
+              - generic [ref=e697] [cursor=pointer]: Titiksha Public School, Delhi/NCR
+              - generic [ref=e698] [cursor=pointer]: ₹249 onwards
+          - link "Fri, 21 Nov, 12:00 PM Royal Enfield Motoverse 2025 Hill Top Goa, Goa ₹2499 onwards" [ref=e699] [cursor=pointer]:
+            - /url: https://www.district.in/events/royal-enfield-motoverse-2025-buy-tickets
+            - generic [ref=e703] [cursor=pointer]:
+              - generic [ref=e704] [cursor=pointer]: Fri, 21 Nov, 12:00 PM
+              - heading "Royal Enfield Motoverse 2025" [level=5] [ref=e705] [cursor=pointer]
+              - generic [ref=e706] [cursor=pointer]: Hill Top Goa, Goa
+              - generic [ref=e707] [cursor=pointer]: ₹2499 onwards
+      - generic [ref=e708]:
+        - generic [ref=e712]: Timeless Hits
+        - link "Tanu Weds Manu Returns (2015) UA | Hindi" [ref=e714] [cursor=pointer]:
+          - /url: https://www.district.in/movies/tanu-weds-manu-returns-2015-movie-tickets-in-gurgaon-MV140702
+          - generic [ref=e718] [cursor=pointer]:
+            - heading "Tanu Weds Manu Returns (2015)" [level=5] [ref=e719] [cursor=pointer]
+            - generic [ref=e720] [cursor=pointer]: UA | Hindi
+      - generic [ref=e721]:
+        - generic [ref=e725]: Offers on Activities
+        - generic [ref=e726]:
+          - generic [ref=e727]:
+            - link "offer 25% off up to ₹300 Daily, Multiple slots Microgravity Gaming Hub Microgravity Ventures Private Limited, Gurugram ₹299 onwards" [ref=e728] [cursor=pointer]:
+              - /url: https://www.district.in/events/microgravity-gaming-hub-2025-buy-tickets
+              - generic [ref=e730] [cursor=pointer]:
+                - generic [ref=e732] [cursor=pointer]:
+                  - img "offer" [ref=e733] [cursor=pointer]
+                  - generic [ref=e734] [cursor=pointer]: 25% off up to ₹300
+                - generic [ref=e735] [cursor=pointer]:
+                  - generic [ref=e736] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Microgravity Gaming Hub" [level=5] [ref=e737] [cursor=pointer]
+                  - generic [ref=e738] [cursor=pointer]: Microgravity Ventures Private Limited, Gurugram
+                  - generic [ref=e739] [cursor=pointer]: ₹299 onwards
+            - link "offer 20% off up to ₹350 Daily, 10:00 AM onwards Jumpoline Trampoline Park | Gurugram JUMPOLINE, Gurugram ₹700 onwards" [ref=e740] [cursor=pointer]:
+              - /url: https://www.district.in/events/jumpoline-trampoline-park-sector-69-gurugram-jul-2025-buy-tickets
+              - generic [ref=e742] [cursor=pointer]:
+                - generic [ref=e744] [cursor=pointer]:
+                  - img "offer" [ref=e745] [cursor=pointer]
+                  - generic [ref=e746] [cursor=pointer]: 20% off up to ₹350
+                - generic [ref=e747] [cursor=pointer]:
+                  - generic [ref=e748] [cursor=pointer]: Daily, 10:00 AM onwards
+                  - heading "Jumpoline Trampoline Park | Gurugram" [level=5] [ref=e749] [cursor=pointer]
+                  - generic [ref=e750] [cursor=pointer]: JUMPOLINE, Gurugram
+                  - generic [ref=e751] [cursor=pointer]: ₹700 onwards
+            - link "offer 20% off up to ₹150 Daily, 12:00 PM onwards Galaxy Laser Tag | Omaxe World Street | Faridabad Galaxy Laser Tag, Faridabad ₹449 onwards" [ref=e752] [cursor=pointer]:
+              - /url: https://www.district.in/events/galaxy-laser-tag-omaxe-world-street-faridabad-2025-buy-tickets
+              - generic [ref=e754] [cursor=pointer]:
+                - generic [ref=e756] [cursor=pointer]:
+                  - img "offer" [ref=e757] [cursor=pointer]
+                  - generic [ref=e758] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e759] [cursor=pointer]:
+                  - generic [ref=e760] [cursor=pointer]: Daily, 12:00 PM onwards
+                  - heading "Galaxy Laser Tag | Omaxe World Street | Faridabad" [level=5] [ref=e761] [cursor=pointer]
+                  - generic [ref=e762] [cursor=pointer]: Galaxy Laser Tag, Faridabad
+                  - generic [ref=e763] [cursor=pointer]: ₹449 onwards
+            - link "offer 20% off up to ₹150 Sat, 27 Sept – Tue, 7 Oct, 11:00 AM Vortex Gaming Cafe vortex gaming cafe, Delhi/NCR ₹100 onwards" [ref=e764] [cursor=pointer]:
+              - /url: https://www.district.in/events/vortex-gaming-cafe-2025-buy-tickets
+              - generic [ref=e766] [cursor=pointer]:
+                - generic [ref=e768] [cursor=pointer]:
+                  - img "offer" [ref=e769] [cursor=pointer]
+                  - generic [ref=e770] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e771] [cursor=pointer]:
+                  - generic [ref=e772] [cursor=pointer]: Sat, 27 Sept – Tue, 7 Oct, 11:00 AM
+                  - heading "Vortex Gaming Cafe" [level=5] [ref=e773] [cursor=pointer]
+                  - generic [ref=e774] [cursor=pointer]: vortex gaming cafe, Delhi/NCR
+                  - generic [ref=e775] [cursor=pointer]: ₹100 onwards
+            - link "offer 20% off up to ₹150 Daily, 11:00 AM onwards Sky Gamer | Faridabad SKY GAMER, Faridabad ₹500 onwards" [ref=e776] [cursor=pointer]:
+              - /url: https://www.district.in/events/sky-gamer-faridabad-jul-2025-buy-tickets
+              - generic [ref=e778] [cursor=pointer]:
+                - generic [ref=e780] [cursor=pointer]:
+                  - img "offer" [ref=e781] [cursor=pointer]
+                  - generic [ref=e782] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e783] [cursor=pointer]:
+                  - generic [ref=e784] [cursor=pointer]: Daily, 11:00 AM onwards
+                  - heading "Sky Gamer | Faridabad" [level=5] [ref=e785] [cursor=pointer]
+                  - generic [ref=e786] [cursor=pointer]: SKY GAMER, Faridabad
+                  - generic [ref=e787] [cursor=pointer]: ₹500 onwards
+            - link "offer 20% off up to ₹150 Sat, 27 Sept – Thu, 16 Oct, 11:00 AM Cheerbox - Kids Play Area & Gaming Zone Cheerbox - Kids Play Area & Gaming Zone in Delhi, Delhi/NCR ₹700 onwards" [ref=e788] [cursor=pointer]:
+              - /url: https://www.district.in/events/cheerbox-kids-play-area-gaming-zone-delhi-2025-buy-tickets
+              - generic [ref=e790] [cursor=pointer]:
+                - generic [ref=e792] [cursor=pointer]:
+                  - img "offer" [ref=e793] [cursor=pointer]
+                  - generic [ref=e794] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e795] [cursor=pointer]:
+                  - generic [ref=e796] [cursor=pointer]: Sat, 27 Sept – Thu, 16 Oct, 11:00 AM
+                  - heading "Cheerbox - Kids Play Area & Gaming Zone" [level=5] [ref=e797] [cursor=pointer]
+                  - generic [ref=e798] [cursor=pointer]: Cheerbox - Kids Play Area & Gaming Zone in Delhi, Delhi/NCR
+                  - generic [ref=e799] [cursor=pointer]: ₹700 onwards
+            - link "offer 20% off up to ₹150 Sat, 27 Sept – Tue, 7 Oct, 11:00 AM Ballistic Billiards Club Ballistic Billiards Club, Delhi/NCR ₹350 onwards" [ref=e800] [cursor=pointer]:
+              - /url: https://www.district.in/events/ballistic-billiards-club-2025-buy-tickets
+              - generic [ref=e802] [cursor=pointer]:
+                - generic [ref=e804] [cursor=pointer]:
+                  - img "offer" [ref=e805] [cursor=pointer]
+                  - generic [ref=e806] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e807] [cursor=pointer]:
+                  - generic [ref=e808] [cursor=pointer]: Sat, 27 Sept – Tue, 7 Oct, 11:00 AM
+                  - heading "Ballistic Billiards Club" [level=5] [ref=e809] [cursor=pointer]
+                  - generic [ref=e810] [cursor=pointer]: Ballistic Billiards Club, Delhi/NCR
+                  - generic [ref=e811] [cursor=pointer]: ₹350 onwards
+            - link "offer 20% off up to ₹250 Sat, 27 Sept – Thu, 16 Oct, Multiple slots Jack N Joey | TombEscape Mystery Room JACK N JOEY, Delhi/NCR ₹600 onwards" [ref=e812] [cursor=pointer]:
+              - /url: https://www.district.in/events/jack-n-joey-tombescape-mystery-room-jul-2025-buy-tickets
+              - generic [ref=e814] [cursor=pointer]:
+                - generic [ref=e816] [cursor=pointer]:
+                  - img "offer" [ref=e817] [cursor=pointer]
+                  - generic [ref=e818] [cursor=pointer]: 20% off up to ₹250
+                - generic [ref=e819] [cursor=pointer]:
+                  - generic [ref=e820] [cursor=pointer]: Sat, 27 Sept – Thu, 16 Oct, Multiple slots
+                  - heading "Jack N Joey | TombEscape Mystery Room" [level=5] [ref=e821] [cursor=pointer]
+                  - generic [ref=e822] [cursor=pointer]: JACK N JOEY, Delhi/NCR
+                  - generic [ref=e823] [cursor=pointer]: ₹600 onwards
+            - link "offer 20% off up to ₹150 Daily, Multiple slots NxGT Gaming Lounge NxGT Gaming Lounge, Delhi/NCR ₹80 onwards" [ref=e824] [cursor=pointer]:
+              - /url: https://www.district.in/events/nxgt-gaming-lounge-2025-buy-tickets
+              - generic [ref=e826] [cursor=pointer]:
+                - generic [ref=e828] [cursor=pointer]:
+                  - img "offer" [ref=e829] [cursor=pointer]
+                  - generic [ref=e830] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e831] [cursor=pointer]:
+                  - generic [ref=e832] [cursor=pointer]: Daily, Multiple slots
+                  - heading "NxGT Gaming Lounge" [level=5] [ref=e833] [cursor=pointer]
+                  - generic [ref=e834] [cursor=pointer]: NxGT Gaming Lounge, Delhi/NCR
+                  - generic [ref=e835] [cursor=pointer]: ₹80 onwards
+            - link "offer 20% off up to ₹150 Sat, 27 Sept – Thu, 2 Oct, 11:00 AM USN Gaming Planet usn gaming planet, Noida ₹150 onwards" [ref=e836] [cursor=pointer]:
+              - /url: https://www.district.in/events/usn-gaming-planet-aug-2025-buy-tickets
+              - generic [ref=e838] [cursor=pointer]:
+                - generic [ref=e840] [cursor=pointer]:
+                  - img "offer" [ref=e841] [cursor=pointer]
+                  - generic [ref=e842] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e843] [cursor=pointer]:
+                  - generic [ref=e844] [cursor=pointer]: Sat, 27 Sept – Thu, 2 Oct, 11:00 AM
+                  - heading "USN Gaming Planet" [level=5] [ref=e845] [cursor=pointer]
+                  - generic [ref=e846] [cursor=pointer]: usn gaming planet, Noida
+                  - generic [ref=e847] [cursor=pointer]: ₹150 onwards
+            - link "offer 20% off up to ₹150 Daily, Multiple slots Arcade Gaming Lounge Arcade Gaming Lounge, Delhi/NCR ₹70 onwards" [ref=e848] [cursor=pointer]:
+              - /url: https://www.district.in/events/arcade-gaming-lounge-2025-buy-tickets
+              - generic [ref=e850] [cursor=pointer]:
+                - generic [ref=e852] [cursor=pointer]:
+                  - img "offer" [ref=e853] [cursor=pointer]
+                  - generic [ref=e854] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e855] [cursor=pointer]:
+                  - generic [ref=e856] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Arcade Gaming Lounge" [level=5] [ref=e857] [cursor=pointer]
+                  - generic [ref=e858] [cursor=pointer]: Arcade Gaming Lounge, Delhi/NCR
+                  - generic [ref=e859] [cursor=pointer]: ₹70 onwards
+            - link "offer 20% off up to ₹150 Daily, Multiple slots iLAN eSports Club iLAN e-Sports Club, Noida ₹100" [ref=e860] [cursor=pointer]:
+              - /url: https://www.district.in/events/ilan-esports-club-2025-buy-tickets
+              - generic [ref=e862] [cursor=pointer]:
+                - generic [ref=e864] [cursor=pointer]:
+                  - img "offer" [ref=e865] [cursor=pointer]
+                  - generic [ref=e866] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e867] [cursor=pointer]:
+                  - generic [ref=e868] [cursor=pointer]: Daily, Multiple slots
+                  - heading "iLAN eSports Club" [level=5] [ref=e869] [cursor=pointer]
+                  - generic [ref=e870] [cursor=pointer]: iLAN e-Sports Club, Noida
+                  - generic [ref=e871] [cursor=pointer]: ₹100
+          - button [ref=e872] [cursor=pointer]
+      - generic [ref=e874]:
+        - generic [ref=e878]: Artists in your District
+        - generic [ref=e879]:
+          - generic [ref=e880]:
+            - link "Tushar Basra" [ref=e881] [cursor=pointer]:
+              - /url: https://www.district.in/events/tushar-basra/artist
+              - heading "Tushar Basra" [level=5] [ref=e885] [cursor=pointer]
+            - link "Radhika Das" [ref=e886] [cursor=pointer]:
+              - /url: https://www.district.in/events/radhika-das/artist
+              - heading "Radhika Das" [level=5] [ref=e890] [cursor=pointer]
+            - link "Karan Aujla" [ref=e891] [cursor=pointer]:
+              - /url: https://www.district.in/events/karan-aujla/artist
+              - heading "Karan Aujla" [level=5] [ref=e895] [cursor=pointer]
+            - link "Eric Prydz" [ref=e896] [cursor=pointer]:
+              - /url: https://www.district.in/events/eric-prydz/artist
+              - heading "Eric Prydz" [level=5] [ref=e900] [cursor=pointer]
+            - link "zefaan" [ref=e901] [cursor=pointer]:
+              - /url: https://www.district.in/events/zefaan/artist
+              - heading "zefaan" [level=5] [ref=e905] [cursor=pointer]
+            - link "Dot and the Syllables" [ref=e906] [cursor=pointer]:
+              - /url: https://www.district.in/events/dot-and-the-syllables/artist
+              - heading "Dot and the Syllables" [level=5] [ref=e910] [cursor=pointer]
+            - link "NIDA" [ref=e911] [cursor=pointer]:
+              - /url: https://www.district.in/events/Nida/artist
+              - heading "NIDA" [level=5] [ref=e915] [cursor=pointer]
+            - link "Swae Lee" [ref=e916] [cursor=pointer]:
+              - /url: https://www.district.in/events/swae-lee/artist
+              - heading "Swae Lee" [level=5] [ref=e920] [cursor=pointer]
+            - link "Karsh Kale" [ref=e921] [cursor=pointer]:
+              - /url: https://www.district.in/events/karsh-kale/artist
+              - heading "Karsh Kale" [level=5] [ref=e925] [cursor=pointer]
+            - link "Neeti Palta" [ref=e926] [cursor=pointer]:
+              - /url: https://www.district.in/events/neeti-palta/artist
+              - heading "Neeti Palta" [level=5] [ref=e930] [cursor=pointer]
+          - button [ref=e931] [cursor=pointer]
+    - generic [ref=e933]:
+      - generic [ref=e934]:
+        - link "app-store" [ref=e937] [cursor=pointer]:
+          - /url: /
+          - img "app-store" [ref=e938] [cursor=pointer]
+        - generic [ref=e939]:
+          - link "Terms & Conditions" [ref=e940] [cursor=pointer]:
+            - /url: /policies/terms-of-service
+            - generic [ref=e941] [cursor=pointer]: Terms & Conditions
+          - link "Privacy Policy" [ref=e942] [cursor=pointer]:
+            - /url: /policies/privacy
+            - generic [ref=e943] [cursor=pointer]: Privacy Policy
+          - link "Contact Us" [ref=e944] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e945] [cursor=pointer]: Contact Us
+          - link "List your events" [ref=e946] [cursor=pointer]:
+            - /url: /events/list-your-event
+            - generic [ref=e947] [cursor=pointer]: List your events
+        - generic [ref=e949]:
+          - img "Download the app" [ref=e950]
+          - paragraph [ref=e951]: Scan to download the app
+      - generic [ref=e953]:
+        - generic [ref=e954]: By accessing this page, you confirm that you have read, understood, and agreed to our Terms of Service, Cookie Policy, Privacy Policy, and Content Guidelines. All rights reserved.
+        - generic [ref=e955]:
+          - link "whatsapp-logo" [ref=e956] [cursor=pointer]:
+            - /url: https://whatsapp.com/channel/0029Vb5fR5I6rsQmoskHy10s
+            - img "whatsapp-logo" [ref=e957] [cursor=pointer]
+          - link "Facebook Logo" [ref=e958] [cursor=pointer]:
+            - /url: https://www.facebook.com/districtupdates
+            - img "Facebook Logo" [ref=e959] [cursor=pointer]
+          - link "Instagram Logo" [ref=e960] [cursor=pointer]:
+            - /url: https://www.instagram.com/districtupdates/
+            - img "Instagram Logo" [ref=e961] [cursor=pointer]
+          - link "Twitter Logo" [ref=e962] [cursor=pointer]:
+            - /url: https://x.com/district_india
+            - img "Twitter Logo" [ref=e963] [cursor=pointer]
+          - link "YouTube Logo" [ref=e964] [cursor=pointer]:
+            - /url: https://www.youtube.com/@district.culture
+            - img "YouTube Logo" [ref=e965] [cursor=pointer]
+  - alert [ref=e966]
+  - dialog:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - heading "Select Location" [level=5]
+              - generic:
+                - generic:
+                  - textbox "Search city, area or locality"
+              - button "Use Current Location":
+                - generic:
+                  - generic:
+                    - img "location"
+                  - generic:
+                    - generic: Use Current Location
+            - generic:
+              - generic:
+                - heading "All Cities" [level=5]
+```

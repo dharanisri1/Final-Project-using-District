@@ -1,0 +1,590 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - link "app-store" [ref=e8] [cursor=pointer]:
+          - /url: /
+          - img "app-store" [ref=e9] [cursor=pointer]
+        - button "Gurugram" [ref=e11] [cursor=pointer]:
+          - generic [ref=e12] [cursor=pointer]:
+            - img [ref=e14] [cursor=pointer]
+            - generic [ref=e17] [cursor=pointer]:
+              - generic [ref=e18] [cursor=pointer]: Gurugram
+              - generic [ref=e19] [cursor=pointer]: Haryana
+      - generic [ref=e20]:
+        - generic [ref=e22]:
+          - link "For you" [ref=e23] [cursor=pointer]:
+            - /url: /
+          - link "Dining" [ref=e24] [cursor=pointer]:
+            - /url: /dining/
+          - link "Events" [ref=e25] [cursor=pointer]:
+            - /url: /events/
+          - link "Movies" [ref=e26] [cursor=pointer]:
+            - /url: /movies/
+          - link "Activities" [ref=e27] [cursor=pointer]:
+            - /url: /activities/
+        - generic [ref=e28]:
+          - link "Search for events, movies and restaurants" [ref=e30] [cursor=pointer]:
+            - /url: /search
+            - generic [ref=e31] [cursor=pointer]:
+              - img [ref=e33] [cursor=pointer]
+              - generic [ref=e35] [cursor=pointer]: Search for events, movies and restaurants
+          - button "User Avatar" [ref=e36] [cursor=pointer]:
+            - img [ref=e38] [cursor=pointer]
+    - generic [ref=e42]:
+      - generic [ref=e45]:
+        - button [ref=e46] [cursor=pointer]
+        - generic [ref=e49]:
+          - link "Sat, 27 Sept – Wed, 15 Oct, 12:30 PM Smaaash | Gurugram SMAAASH, Gurugram ₹197 onwards Book tickets Smaaash | Gurugram" [ref=e51] [cursor=pointer]:
+            - /url: https://www.district.in/events/summer-play-pass-gurugram-2025-buy-tickets
+            - generic [ref=e57] [cursor=pointer]:
+              - generic [ref=e58] [cursor=pointer]:
+                - generic [ref=e59] [cursor=pointer]:
+                  - generic [ref=e60] [cursor=pointer]: Sat, 27 Sept – Wed, 15 Oct, 12:30 PM
+                  - heading "Smaaash | Gurugram" [level=2] [ref=e61] [cursor=pointer]
+                  - generic [ref=e62] [cursor=pointer]: SMAAASH, Gurugram
+                - generic [ref=e63] [cursor=pointer]:
+                  - generic [ref=e64] [cursor=pointer]: ₹197 onwards
+                  - button "Book tickets" [ref=e65] [cursor=pointer]:
+                    - generic [ref=e66] [cursor=pointer]: Book tickets
+              - img "Smaaash | Gurugram" [ref=e69] [cursor=pointer]
+          - link "Sat, 27 Sept onwards, Multiple Dates Art Sessions at Alive Studio Alive Studio, Gurugram ₹1200 onwards Book tickets Art Sessions at Alive Studio" [ref=e71] [cursor=pointer]:
+            - /url: https://www.district.in/events/studio-sessions-jun3-2025-buy-tickets
+            - generic [ref=e77] [cursor=pointer]:
+              - generic [ref=e78] [cursor=pointer]:
+                - generic [ref=e79] [cursor=pointer]:
+                  - generic [ref=e80] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                  - heading "Art Sessions at Alive Studio" [level=2] [ref=e81] [cursor=pointer]
+                  - generic [ref=e82] [cursor=pointer]: Alive Studio, Gurugram
+                - generic [ref=e83] [cursor=pointer]:
+                  - generic [ref=e84] [cursor=pointer]: ₹1200 onwards
+                  - button "Book tickets" [ref=e85] [cursor=pointer]:
+                    - generic [ref=e86] [cursor=pointer]: Book tickets
+              - img "Art Sessions at Alive Studio" [ref=e89] [cursor=pointer]
+          - link "Daily, Multiple slots Kosmic Kingdom | IRIS Broadway Kosmic Kingdom, Gurugram ₹899 onwards Book tickets Kosmic Kingdom | IRIS Broadway" [ref=e91] [cursor=pointer]:
+            - /url: https://www.district.in/events/deepak-kashyap-jun4-2025-buy-tickets
+            - generic [ref=e97] [cursor=pointer]:
+              - generic [ref=e98] [cursor=pointer]:
+                - generic [ref=e99] [cursor=pointer]:
+                  - generic [ref=e100] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Kosmic Kingdom | IRIS Broadway" [level=2] [ref=e101] [cursor=pointer]
+                  - generic [ref=e102] [cursor=pointer]: Kosmic Kingdom, Gurugram
+                - generic [ref=e103] [cursor=pointer]:
+                  - generic [ref=e104] [cursor=pointer]: ₹899 onwards
+                  - button "Book tickets" [ref=e105] [cursor=pointer]:
+                    - generic [ref=e106] [cursor=pointer]: Book tickets
+              - img "Kosmic Kingdom | IRIS Broadway" [ref=e109] [cursor=pointer]
+          - link "Daily, Multiple slots Timezone | MGF Mall - Gurugram Timezone MGF Metropolitan Mall, Gurugram ₹590 onwards Book tickets Timezone | MGF Mall - Gurugram" [ref=e111] [cursor=pointer]:
+            - /url: https://www.district.in/events/timezone--mgf-mall--gurgaon-buy-tickets
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e118] [cursor=pointer]:
+                - generic [ref=e119] [cursor=pointer]:
+                  - generic [ref=e120] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Timezone | MGF Mall - Gurugram" [level=2] [ref=e121] [cursor=pointer]
+                  - generic [ref=e122] [cursor=pointer]: Timezone MGF Metropolitan Mall, Gurugram
+                - generic [ref=e123] [cursor=pointer]:
+                  - generic [ref=e124] [cursor=pointer]: ₹590 onwards
+                  - button "Book tickets" [ref=e125] [cursor=pointer]:
+                    - generic [ref=e126] [cursor=pointer]: Book tickets
+              - img "Timezone | MGF Mall - Gurugram" [ref=e129] [cursor=pointer]
+          - link "Sat, 27 Sept – Tue, 30 Sept, Multiple slots Sky Jumper Trampoline Park | ILD Gurugram SkyJumper Trampoline Park - Gurgaon, ILD Trade Centre, Gurugram ₹490 onwards Book tickets Sky Jumper Trampoline Park | ILD Gurugram" [ref=e131] [cursor=pointer]:
+            - /url: https://www.district.in/events/sky-jumper-trampoline-park-ild-gurgaon-2025-buy-tickets
+            - generic [ref=e137] [cursor=pointer]:
+              - generic [ref=e138] [cursor=pointer]:
+                - generic [ref=e139] [cursor=pointer]:
+                  - generic [ref=e140] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, Multiple slots
+                  - heading "Sky Jumper Trampoline Park | ILD Gurugram" [level=2] [ref=e141] [cursor=pointer]
+                  - generic [ref=e142] [cursor=pointer]: SkyJumper Trampoline Park - Gurgaon, ILD Trade Centre, Gurugram
+                - generic [ref=e143] [cursor=pointer]:
+                  - generic [ref=e144] [cursor=pointer]: ₹490 onwards
+                  - button "Book tickets" [ref=e145] [cursor=pointer]:
+                    - generic [ref=e146] [cursor=pointer]: Book tickets
+              - img "Sky Jumper Trampoline Park | ILD Gurugram" [ref=e149] [cursor=pointer]
+          - link "Sat, 27 Sept – Tue, 30 Sept, Multiple slots The Hidden Hour | MGF Metropolis Gurugram The Hidden Hour Gurugram - Mystery Escape Rooms, Gurugram ₹500 onwards Book tickets The Hidden Hour | MGF Metropolis Gurugram" [ref=e151] [cursor=pointer]:
+            - /url: https://www.district.in/events/the-hidden-hour-mgf-metropolis-gurugram-jun4-2025-buy-tickets
+            - generic [ref=e157] [cursor=pointer]:
+              - generic [ref=e158] [cursor=pointer]:
+                - generic [ref=e159] [cursor=pointer]:
+                  - generic [ref=e160] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, Multiple slots
+                  - heading "The Hidden Hour | MGF Metropolis Gurugram" [level=2] [ref=e161] [cursor=pointer]
+                  - generic [ref=e162] [cursor=pointer]: The Hidden Hour Gurugram - Mystery Escape Rooms, Gurugram
+                - generic [ref=e163] [cursor=pointer]:
+                  - generic [ref=e164] [cursor=pointer]: ₹500 onwards
+                  - button "Book tickets" [ref=e165] [cursor=pointer]:
+                    - generic [ref=e166] [cursor=pointer]: Book tickets
+              - img "The Hidden Hour | MGF Metropolis Gurugram" [ref=e169] [cursor=pointer]
+          - link "Daily, Multiple slots Microgravity Gaming Hub Microgravity Ventures Private Limited, Gurugram ₹299 onwards Book tickets Microgravity Gaming Hub" [ref=e171] [cursor=pointer]:
+            - /url: https://www.district.in/events/microgravity-gaming-hub-2025-buy-tickets
+            - generic [ref=e177] [cursor=pointer]:
+              - generic [ref=e178] [cursor=pointer]:
+                - generic [ref=e179] [cursor=pointer]:
+                  - generic [ref=e180] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Microgravity Gaming Hub" [level=2] [ref=e181] [cursor=pointer]
+                  - generic [ref=e182] [cursor=pointer]: Microgravity Ventures Private Limited, Gurugram
+                - generic [ref=e183] [cursor=pointer]:
+                  - generic [ref=e184] [cursor=pointer]: ₹299 onwards
+                  - button "Book tickets" [ref=e185] [cursor=pointer]:
+                    - generic [ref=e186] [cursor=pointer]: Book tickets
+              - img "Microgravity Gaming Hub" [ref=e189] [cursor=pointer]
+          - link "Sat, 27 Sept onwards, Multiple Dates The Joy of Clay by Sona Pottery Sona Pottery, Gurugram ₹1199 onwards Book tickets The Joy of Clay by Sona Pottery" [ref=e191] [cursor=pointer]:
+            - /url: https://www.district.in/events/pottery-workshop-for-beginners-may13-2025-buy-tickets
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e198] [cursor=pointer]:
+                - generic [ref=e199] [cursor=pointer]:
+                  - generic [ref=e200] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                  - heading "The Joy of Clay by Sona Pottery" [level=2] [ref=e201] [cursor=pointer]
+                  - generic [ref=e202] [cursor=pointer]: Sona Pottery, Gurugram
+                - generic [ref=e203] [cursor=pointer]:
+                  - generic [ref=e204] [cursor=pointer]: ₹1199 onwards
+                  - button "Book tickets" [ref=e205] [cursor=pointer]:
+                    - generic [ref=e206] [cursor=pointer]: Book tickets
+              - img "The Joy of Clay by Sona Pottery" [ref=e209] [cursor=pointer]
+          - 'link "Sat, 27 Sept – Tue, 30 Sept, 6:00 AM Squad Goals: Golf Workshop with ZEN Golf Range & Academy ZEN GOLF Range & Academy, Gurugram ₹1400 onwards Book tickets Squad Goals: Golf Workshop with ZEN Golf Range & Academy" [ref=e211] [cursor=pointer]':
+            - /url: https://www.district.in/events/squad-goals-golf-edition-with-zen-golf-range-academy-2025-buy-tickets
+            - generic [ref=e217] [cursor=pointer]:
+              - generic [ref=e218] [cursor=pointer]:
+                - generic [ref=e219] [cursor=pointer]:
+                  - generic [ref=e220] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, 6:00 AM
+                  - 'heading "Squad Goals: Golf Workshop with ZEN Golf Range & Academy" [level=2] [ref=e221] [cursor=pointer]'
+                  - generic [ref=e222] [cursor=pointer]: ZEN GOLF Range & Academy, Gurugram
+                - generic [ref=e223] [cursor=pointer]:
+                  - generic [ref=e224] [cursor=pointer]: ₹1400 onwards
+                  - button "Book tickets" [ref=e225] [cursor=pointer]:
+                    - generic [ref=e226] [cursor=pointer]: Book tickets
+              - 'img "Squad Goals: Golf Workshop with ZEN Golf Range & Academy" [ref=e229] [cursor=pointer]'
+          - link "Sat, 27 Sept – Tue, 30 Sept, Multiple slots The Hidden Hour | M3M Gurugram The Hidden Hour Gurugram (M3M 65th Avenue) - Mystery Escape Rooms, Gurugram ₹500 onwards Book tickets The Hidden Hour | M3M Gurugram" [ref=e231] [cursor=pointer]:
+            - /url: https://www.district.in/events/the-hidden-hour-m3m-gurugram-jun3-2025-buy-tickets
+            - generic [ref=e237] [cursor=pointer]:
+              - generic [ref=e238] [cursor=pointer]:
+                - generic [ref=e239] [cursor=pointer]:
+                  - generic [ref=e240] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, Multiple slots
+                  - heading "The Hidden Hour | M3M Gurugram" [level=2] [ref=e241] [cursor=pointer]
+                  - generic [ref=e242] [cursor=pointer]: The Hidden Hour Gurugram (M3M 65th Avenue) - Mystery Escape Rooms, Gurugram
+                - generic [ref=e243] [cursor=pointer]:
+                  - generic [ref=e244] [cursor=pointer]: ₹500 onwards
+                  - button "Book tickets" [ref=e245] [cursor=pointer]:
+                    - generic [ref=e246] [cursor=pointer]: Book tickets
+              - img "The Hidden Hour | M3M Gurugram" [ref=e249] [cursor=pointer]
+          - link "Sat, 27 Sept – Sun, 5 Oct, Multiple slots Turbo Track | Go Karting Turbo Track, Gurugram ₹499 onwards Book tickets Turbo Track | Go Karting" [ref=e251] [cursor=pointer]:
+            - /url: https://www.district.in/events/turbo-track-may29-2025-buy-tickets
+            - generic [ref=e257] [cursor=pointer]:
+              - generic [ref=e258] [cursor=pointer]:
+                - generic [ref=e259] [cursor=pointer]:
+                  - generic [ref=e260] [cursor=pointer]: Sat, 27 Sept – Sun, 5 Oct, Multiple slots
+                  - heading "Turbo Track | Go Karting" [level=2] [ref=e261] [cursor=pointer]
+                  - generic [ref=e262] [cursor=pointer]: Turbo Track, Gurugram
+                - generic [ref=e263] [cursor=pointer]:
+                  - generic [ref=e264] [cursor=pointer]: ₹499 onwards
+                  - button "Book tickets" [ref=e265] [cursor=pointer]:
+                    - generic [ref=e266] [cursor=pointer]: Book tickets
+              - img "Turbo Track | Go Karting" [ref=e269] [cursor=pointer]
+          - 'link "Sat, 27 Sept – Tue, 30 Sept, 12:00 PM Boombastic | Biggest Indoor Amusement & Trampoline Park | Gurugram Boombastic: Indoor Amusement & Trampoline Park with Gaming Zone, Gurugram ₹799 onwards Book tickets Boombastic | Biggest Indoor Amusement & Trampoline Park | Gurugram" [ref=e271] [cursor=pointer]':
+            - /url: https://www.district.in/events/boombastic-biggest-indoor-amusement-trampoline-parkgurugram-jul-2025-buy-tickets
+            - generic [ref=e277] [cursor=pointer]:
+              - generic [ref=e278] [cursor=pointer]:
+                - generic [ref=e279] [cursor=pointer]:
+                  - generic [ref=e280] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, 12:00 PM
+                  - heading "Boombastic | Biggest Indoor Amusement & Trampoline Park | Gurugram" [level=2] [ref=e281] [cursor=pointer]
+                  - generic [ref=e282] [cursor=pointer]: "Boombastic: Indoor Amusement & Trampoline Park with Gaming Zone, Gurugram"
+                - generic [ref=e283] [cursor=pointer]:
+                  - generic [ref=e284] [cursor=pointer]: ₹799 onwards
+                  - button "Book tickets" [ref=e285] [cursor=pointer]:
+                    - generic [ref=e286] [cursor=pointer]: Book tickets
+              - img "Boombastic | Biggest Indoor Amusement & Trampoline Park | Gurugram" [ref=e289] [cursor=pointer]
+          - link "Sat, 27 Sept onwards, Multiple Dates Clay Handbuilding at Alive Studio Alive Studio, Gurugram ₹1200 onwards Book tickets Clay Handbuilding at Alive Studio" [ref=e291] [cursor=pointer]:
+            - /url: https://www.district.in/events/clay-handbuilding-jun19-2025-buy-tickets
+            - generic [ref=e297] [cursor=pointer]:
+              - generic [ref=e298] [cursor=pointer]:
+                - generic [ref=e299] [cursor=pointer]:
+                  - generic [ref=e300] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                  - heading "Clay Handbuilding at Alive Studio" [level=2] [ref=e301] [cursor=pointer]
+                  - generic [ref=e302] [cursor=pointer]: Alive Studio, Gurugram
+                - generic [ref=e303] [cursor=pointer]:
+                  - generic [ref=e304] [cursor=pointer]: ₹1200 onwards
+                  - button "Book tickets" [ref=e305] [cursor=pointer]:
+                    - generic [ref=e306] [cursor=pointer]: Book tickets
+              - img "Clay Handbuilding at Alive Studio" [ref=e309] [cursor=pointer]
+          - link "Sat, 27 Sept – Tue, 30 Sept, Multiple slots Kosmic Kingdom | M3M IFC Kosmic Kingdom, Gurugram ₹899 onwards Book tickets Kosmic Kingdom | M3M IFC" [ref=e311] [cursor=pointer]:
+            - /url: https://www.district.in/events/deepak-kashyap-may24-2025-buy-tickets
+            - generic [ref=e317] [cursor=pointer]:
+              - generic [ref=e318] [cursor=pointer]:
+                - generic [ref=e319] [cursor=pointer]:
+                  - generic [ref=e320] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, Multiple slots
+                  - heading "Kosmic Kingdom | M3M IFC" [level=2] [ref=e321] [cursor=pointer]
+                  - generic [ref=e322] [cursor=pointer]: Kosmic Kingdom, Gurugram
+                - generic [ref=e323] [cursor=pointer]:
+                  - generic [ref=e324] [cursor=pointer]: ₹899 onwards
+                  - button "Book tickets" [ref=e325] [cursor=pointer]:
+                    - generic [ref=e326] [cursor=pointer]: Book tickets
+              - img "Kosmic Kingdom | M3M IFC" [ref=e329] [cursor=pointer]
+          - link "Sat, 27 Sept onwards, Multiple Dates Watercolour Painting at Alive Studio Alive Studio, Gurugram ₹1200 onwards Book tickets Watercolour Painting at Alive Studio" [ref=e331] [cursor=pointer]:
+            - /url: https://www.district.in/events/watercolour-painting-session-jul9-2025-buy-tickets
+            - generic [ref=e337] [cursor=pointer]:
+              - generic [ref=e338] [cursor=pointer]:
+                - generic [ref=e339] [cursor=pointer]:
+                  - generic [ref=e340] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                  - heading "Watercolour Painting at Alive Studio" [level=2] [ref=e341] [cursor=pointer]
+                  - generic [ref=e342] [cursor=pointer]: Alive Studio, Gurugram
+                - generic [ref=e343] [cursor=pointer]:
+                  - generic [ref=e344] [cursor=pointer]: ₹1200 onwards
+                  - button "Book tickets" [ref=e345] [cursor=pointer]:
+                    - generic [ref=e346] [cursor=pointer]: Book tickets
+              - img "Watercolour Painting at Alive Studio" [ref=e349] [cursor=pointer]
+          - link "Daily, Multiple slots Zoreko - ELAN Town Center | Gurugram Zoreko - Original Gamers, Gurugram ₹590 onwards Book tickets Zoreko - ELAN Town Center | Gurugram" [ref=e351] [cursor=pointer]:
+            - /url: https://www.district.in/events/zoreko-elan-town-center-gurugram-2025-buy-tickets
+            - generic [ref=e357] [cursor=pointer]:
+              - generic [ref=e358] [cursor=pointer]:
+                - generic [ref=e359] [cursor=pointer]:
+                  - generic [ref=e360] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Zoreko - ELAN Town Center | Gurugram" [level=2] [ref=e361] [cursor=pointer]
+                  - generic [ref=e362] [cursor=pointer]: Zoreko - Original Gamers, Gurugram
+                - generic [ref=e363] [cursor=pointer]:
+                  - generic [ref=e364] [cursor=pointer]: ₹590 onwards
+                  - button "Book tickets" [ref=e365] [cursor=pointer]:
+                    - generic [ref=e366] [cursor=pointer]: Book tickets
+              - img "Zoreko - ELAN Town Center | Gurugram" [ref=e369] [cursor=pointer]
+          - link "Daily, Multiple slots Zooper India Trampoline Park Zooper India Trampoline Park Gurgaon, Gurugram ₹300 onwards Book tickets Zooper India Trampoline Park" [ref=e371] [cursor=pointer]:
+            - /url: https://www.district.in/events/zooper-india-trampoline-park-2025-buy-tickets
+            - generic [ref=e377] [cursor=pointer]:
+              - generic [ref=e378] [cursor=pointer]:
+                - generic [ref=e379] [cursor=pointer]:
+                  - generic [ref=e380] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Zooper India Trampoline Park" [level=2] [ref=e381] [cursor=pointer]
+                  - generic [ref=e382] [cursor=pointer]: Zooper India Trampoline Park Gurgaon, Gurugram
+                - generic [ref=e383] [cursor=pointer]:
+                  - generic [ref=e384] [cursor=pointer]: ₹300 onwards
+                  - button "Book tickets" [ref=e385] [cursor=pointer]:
+                    - generic [ref=e386] [cursor=pointer]: Book tickets
+              - img "Zooper India Trampoline Park" [ref=e389] [cursor=pointer]
+          - link "Sat, 27 Sept onwards, Multiple Dates Canvas Painting Session Alive Studio, Gurugram ₹1200 onwards Book tickets Canvas Painting Session" [ref=e391] [cursor=pointer]:
+            - /url: https://www.district.in/events/canvas-painting-session-jul9-2025-buy-tickets
+            - generic [ref=e397] [cursor=pointer]:
+              - generic [ref=e398] [cursor=pointer]:
+                - generic [ref=e399] [cursor=pointer]:
+                  - generic [ref=e400] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                  - heading "Canvas Painting Session" [level=2] [ref=e401] [cursor=pointer]
+                  - generic [ref=e402] [cursor=pointer]: Alive Studio, Gurugram
+                - generic [ref=e403] [cursor=pointer]:
+                  - generic [ref=e404] [cursor=pointer]: ₹1200 onwards
+                  - button "Book tickets" [ref=e405] [cursor=pointer]:
+                    - generic [ref=e406] [cursor=pointer]: Book tickets
+              - img "Canvas Painting Session" [ref=e409] [cursor=pointer]
+          - link "Sat, 27 Sept – Tue, 30 Sept, Multiple slots Tickle Wickle Kids Playzone F-9/10, Golf Course Rd, Gurugram ₹800 onwards Book tickets Tickle Wickle Kids Playzone" [ref=e411] [cursor=pointer]:
+            - /url: https://www.district.in/events/tickle-wickle-kids-playzone-jul4-2025-buy-tickets
+            - generic [ref=e417] [cursor=pointer]:
+              - generic [ref=e418] [cursor=pointer]:
+                - generic [ref=e419] [cursor=pointer]:
+                  - generic [ref=e420] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, Multiple slots
+                  - heading "Tickle Wickle Kids Playzone" [level=2] [ref=e421] [cursor=pointer]
+                  - generic [ref=e422] [cursor=pointer]: F-9/10, Golf Course Rd, Gurugram
+                - generic [ref=e423] [cursor=pointer]:
+                  - generic [ref=e424] [cursor=pointer]: ₹800 onwards
+                  - button "Book tickets" [ref=e425] [cursor=pointer]:
+                    - generic [ref=e426] [cursor=pointer]: Book tickets
+              - img "Tickle Wickle Kids Playzone" [ref=e429] [cursor=pointer]
+          - link "Sat, 27 Sept – Tue, 30 Sept, Multiple slots Mini Golf Madness | Gurugram Mini Golf Madness, Gurugram ₹850 onwards Book tickets Mini Golf Madness | Gurugram" [ref=e431] [cursor=pointer]:
+            - /url: https://www.district.in/events/mini-golf-madness-apr13-2025-buy-tickets
+            - generic [ref=e437] [cursor=pointer]:
+              - generic [ref=e438] [cursor=pointer]:
+                - generic [ref=e439] [cursor=pointer]:
+                  - generic [ref=e440] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, Multiple slots
+                  - heading "Mini Golf Madness | Gurugram" [level=2] [ref=e441] [cursor=pointer]
+                  - generic [ref=e442] [cursor=pointer]: Mini Golf Madness, Gurugram
+                - generic [ref=e443] [cursor=pointer]:
+                  - generic [ref=e444] [cursor=pointer]: ₹850 onwards
+                  - button "Book tickets" [ref=e445] [cursor=pointer]:
+                    - generic [ref=e446] [cursor=pointer]: Book tickets
+              - img "Mini Golf Madness | Gurugram" [ref=e449] [cursor=pointer]
+        - button [ref=e471] [cursor=pointer]
+      - generic [ref=e473]:
+        - generic [ref=e474]:
+          - generic [ref=e478]: Explore activities
+          - generic [ref=e479]:
+            - link "Game Zones Activity V2 [Taxonomy]" [ref=e480] [cursor=pointer]:
+              - /url: https://www.district.in/activities/game-zones-activities-in-gurgaon
+              - img "Game Zones Activity V2 [Taxonomy]" [ref=e482] [cursor=pointer]
+            - link "Theme Parks Activity V2 [Taxonomy]" [ref=e483] [cursor=pointer]:
+              - /url: https://www.district.in/activities/theme-parks-activities-in-gurgaon
+              - img "Theme Parks Activity V2 [Taxonomy]" [ref=e485] [cursor=pointer]
+            - link "Workshops Activity V2 [Taxonomy]" [ref=e486] [cursor=pointer]:
+              - /url: https://www.district.in/activities/workshops-activities-in-gurgaon
+              - img "Workshops Activity V2 [Taxonomy]" [ref=e488] [cursor=pointer]
+            - link "Adventure Activity V2 [Taxonomy]" [ref=e489] [cursor=pointer]:
+              - /url: https://www.district.in/activities/adventure-activities-in-gurgaon
+              - img "Adventure Activity V2 [Taxonomy]" [ref=e491] [cursor=pointer]
+            - link "Kids Play Activity V2 [Taxonomy]" [ref=e492] [cursor=pointer]:
+              - /url: https://www.district.in/activities/kids-play-activities-in-gurgaon
+              - img "Kids Play Activity V2 [Taxonomy]" [ref=e494] [cursor=pointer]
+            - link "Fitness Activity V2 [Taxonomy]" [ref=e495] [cursor=pointer]:
+              - /url: https://www.district.in/activities/fitness-activity-activities-in-gurgaon
+              - img "Fitness Activity V2 [Taxonomy]" [ref=e497] [cursor=pointer]
+            - link "Pets Activity V2 [Taxonomy]" [ref=e498] [cursor=pointer]:
+              - /url: https://www.district.in/activities/pets-activity-activities-in-gurgaon
+              - img "Pets Activity V2 [Taxonomy]" [ref=e500] [cursor=pointer]
+            - link "Water Parks Activity V2 [Taxonomy]" [ref=e501] [cursor=pointer]:
+              - /url: https://www.district.in/activities/water-parks-activities-in-gurgaon
+              - img "Water Parks Activity V2 [Taxonomy]" [ref=e503] [cursor=pointer]
+            - link "Games & Quizzes Activity V2 [Taxonomy]" [ref=e504] [cursor=pointer]:
+              - /url: https://www.district.in/activities/games-quizzes-activities-in-gurgaon
+              - img "Games & Quizzes Activity V2 [Taxonomy]" [ref=e506] [cursor=pointer]
+            - link "Art & Craft Activity V2 [Taxonomy]" [ref=e507] [cursor=pointer]:
+              - /url: https://www.district.in/activities/art-craft-activities-in-gurgaon
+              - img "Art & Craft Activity V2 [Taxonomy]" [ref=e509] [cursor=pointer]
+            - link "Esports Activity V2 [Taxonomy]" [ref=e510] [cursor=pointer]:
+              - /url: https://www.district.in/activities/esports-activities-in-gurgaon
+              - img "Esports Activity V2 [Taxonomy]" [ref=e512] [cursor=pointer]
+            - link "Museums Activity V2 [Taxonomy]" [ref=e513] [cursor=pointer]:
+              - /url: https://www.district.in/activities/museums-activities-in-gurgaon
+              - img "Museums Activity V2 [Taxonomy]" [ref=e515] [cursor=pointer]
+        - generic [ref=e516]:
+          - generic [ref=e520]: All Activities
+          - generic [ref=e523]:
+            - button "Filters" [ref=e524] [cursor=pointer]:
+              - generic [ref=e525] [cursor=pointer]:
+                - img [ref=e527] [cursor=pointer]
+                - generic [ref=e535] [cursor=pointer]: Filters
+                - img [ref=e537] [cursor=pointer]
+            - 'button "Price : Low to High" [ref=e539] [cursor=pointer]':
+              - generic [ref=e540] [cursor=pointer]:
+                - generic [ref=e542] [cursor=pointer]: "Price : Low to High"
+                - img [ref=e544] [cursor=pointer]
+            - button "Under 5 km" [ref=e546] [cursor=pointer]:
+              - generic [ref=e547] [cursor=pointer]: Under 5 km
+            - button "Today" [ref=e548] [cursor=pointer]:
+              - generic [ref=e549] [cursor=pointer]: Today
+            - button "Tomorrow" [ref=e550] [cursor=pointer]:
+              - generic [ref=e551] [cursor=pointer]: Tomorrow
+            - button "Art & Craft Workshops" [ref=e552] [cursor=pointer]:
+              - generic [ref=e553] [cursor=pointer]: Art & Craft Workshops
+            - button "Workshops" [ref=e554] [cursor=pointer]:
+              - generic [ref=e555] [cursor=pointer]: Workshops
+          - generic [ref=e556]:
+            - link "A Curated Art Walkthrough | Artistique Gallery Sun, 5 Oct, 1:00 PM A Curated Art Walkthrough | Artistique Gallery Artistique Art Gallery, Gurgaon Free" [ref=e557] [cursor=pointer]:
+              - /url: https://www.district.in/events/a-curated-art-walkthrough-artistique-gallery-oct5-2025-buy-tickets
+              - generic [ref=e559] [cursor=pointer]:
+                - img "A Curated Art Walkthrough | Artistique Gallery" [ref=e560] [cursor=pointer]
+                - generic [ref=e561] [cursor=pointer]:
+                  - generic [ref=e562] [cursor=pointer]: Sun, 5 Oct, 1:00 PM
+                  - heading "A Curated Art Walkthrough | Artistique Gallery" [level=5] [ref=e563] [cursor=pointer]
+                  - generic [ref=e564] [cursor=pointer]: Artistique Art Gallery, Gurgaon
+                  - generic [ref=e565] [cursor=pointer]: Free
+            - link "Of Gardens and Beasts IV - Architects of Nature offer 20% off up to ₹150 Sat, 27 Sept, 11:00 AM Of Gardens and Beasts IV - Architects of Nature Kiran Nadar Museum of Art, Delhi/NCR ₹50" [ref=e566] [cursor=pointer]:
+              - /url: https://www.district.in/events/of-gardens-and-beasts-iv-architects-of-nature-sep27-2025-buy-tickets
+              - generic [ref=e568] [cursor=pointer]:
+                - img "Of Gardens and Beasts IV - Architects of Nature" [ref=e569] [cursor=pointer]
+                - generic [ref=e570] [cursor=pointer]:
+                  - img "offer" [ref=e571] [cursor=pointer]
+                  - generic [ref=e572] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e573] [cursor=pointer]:
+                  - generic [ref=e574] [cursor=pointer]: Sat, 27 Sept, 11:00 AM
+                  - heading "Of Gardens and Beasts IV - Architects of Nature" [level=5] [ref=e575] [cursor=pointer]
+                  - generic [ref=e576] [cursor=pointer]: Kiran Nadar Museum of Art, Delhi/NCR
+                  - generic [ref=e577] [cursor=pointer]: ₹50
+            - link "Gaming Mania offer 20% off up to ₹150 Mon, 29 Sept – Tue, 30 Sept, 10:00 AM Gaming Mania Gaming Mania, Delhi/NCR ₹60 onwards" [ref=e578] [cursor=pointer]:
+              - /url: https://www.district.in/events/gaming-mania-2025-buy-tickets
+              - generic [ref=e580] [cursor=pointer]:
+                - img "Gaming Mania" [ref=e581] [cursor=pointer]
+                - generic [ref=e582] [cursor=pointer]:
+                  - img "offer" [ref=e583] [cursor=pointer]
+                  - generic [ref=e584] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e585] [cursor=pointer]:
+                  - generic [ref=e586] [cursor=pointer]: Mon, 29 Sept – Tue, 30 Sept, 10:00 AM
+                  - heading "Gaming Mania" [level=5] [ref=e587] [cursor=pointer]
+                  - generic [ref=e588] [cursor=pointer]: Gaming Mania, Delhi/NCR
+                  - generic [ref=e589] [cursor=pointer]: ₹60 onwards
+            - link "Howl VR Gaming Zone offer 20% off up to ₹150 Sat, 27 Sept – Tue, 30 Sept, 4:00 PM Howl VR Gaming Zone Howl VR Gaming Zone (Virtual Reality, Retro Games in Delhi), Delhi/NCR ₹60 onwards" [ref=e590] [cursor=pointer]:
+              - /url: https://www.district.in/events/divyank-nagpal-2025-buy-tickets
+              - generic [ref=e592] [cursor=pointer]:
+                - img "Howl VR Gaming Zone" [ref=e593] [cursor=pointer]
+                - generic [ref=e594] [cursor=pointer]:
+                  - img "offer" [ref=e595] [cursor=pointer]
+                  - generic [ref=e596] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e597] [cursor=pointer]:
+                  - generic [ref=e598] [cursor=pointer]: Sat, 27 Sept – Tue, 30 Sept, 4:00 PM
+                  - heading "Howl VR Gaming Zone" [level=5] [ref=e599] [cursor=pointer]
+                  - generic [ref=e600] [cursor=pointer]: Howl VR Gaming Zone (Virtual Reality, Retro Games in Delhi), Delhi/NCR
+                  - generic [ref=e601] [cursor=pointer]: ₹60 onwards
+            - link "offer Flat 10% off Sat, 27 Sept onwards, Multiple Dates Glitch Gafe Glitch Gafe (Gaming Cafe), Delhi/NCR ₹60 onwards" [ref=e602] [cursor=pointer]:
+              - /url: https://www.district.in/events/glitch-gafe-2025-buy-tickets
+              - generic [ref=e604] [cursor=pointer]:
+                - generic [ref=e606] [cursor=pointer]:
+                  - img "offer" [ref=e607] [cursor=pointer]
+                  - generic [ref=e608] [cursor=pointer]: Flat 10% off
+                - generic [ref=e609] [cursor=pointer]:
+                  - generic [ref=e610] [cursor=pointer]: Sat, 27 Sept onwards, Multiple Dates
+                  - heading "Glitch Gafe" [level=5] [ref=e611] [cursor=pointer]
+                  - generic [ref=e612] [cursor=pointer]: Glitch Gafe (Gaming Cafe), Delhi/NCR
+                  - generic [ref=e613] [cursor=pointer]: ₹60 onwards
+            - link "offer 20% off up to ₹150 Daily, Multiple slots Arcade Gaming Lounge 2.0 Arcade Gaming Lounge - 2.0, Delhi/NCR ₹70 onwards" [ref=e614] [cursor=pointer]:
+              - /url: https://www.district.in/events/arcade-gaming-lounge-2o-2025-buy-tickets
+              - generic [ref=e616] [cursor=pointer]:
+                - generic [ref=e618] [cursor=pointer]:
+                  - img "offer" [ref=e619] [cursor=pointer]
+                  - generic [ref=e620] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e621] [cursor=pointer]:
+                  - generic [ref=e622] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Arcade Gaming Lounge 2.0" [level=5] [ref=e623] [cursor=pointer]
+                  - generic [ref=e624] [cursor=pointer]: Arcade Gaming Lounge - 2.0, Delhi/NCR
+                  - generic [ref=e625] [cursor=pointer]: ₹70 onwards
+            - link "offer 20% off up to ₹150 Daily, Multiple slots Arcade Gaming Lounge Arcade Gaming Lounge, Delhi/NCR ₹70 onwards" [ref=e626] [cursor=pointer]:
+              - /url: https://www.district.in/events/arcade-gaming-lounge-2025-buy-tickets
+              - generic [ref=e628] [cursor=pointer]:
+                - generic [ref=e630] [cursor=pointer]:
+                  - img "offer" [ref=e631] [cursor=pointer]
+                  - generic [ref=e632] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e633] [cursor=pointer]:
+                  - generic [ref=e634] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Arcade Gaming Lounge" [level=5] [ref=e635] [cursor=pointer]
+                  - generic [ref=e636] [cursor=pointer]: Arcade Gaming Lounge, Delhi/NCR
+                  - generic [ref=e637] [cursor=pointer]: ₹70 onwards
+            - link "offer Flat 10% off Daily, 10:00 AM onwards Razz Gaming Studio RaZZ Gaming Studio, Delhi/NCR ₹75 onwards" [ref=e638] [cursor=pointer]:
+              - /url: https://www.district.in/events/razz-gaming-studio-2025-buy-tickets
+              - generic [ref=e640] [cursor=pointer]:
+                - generic [ref=e642] [cursor=pointer]:
+                  - img "offer" [ref=e643] [cursor=pointer]
+                  - generic [ref=e644] [cursor=pointer]: Flat 10% off
+                - generic [ref=e645] [cursor=pointer]:
+                  - generic [ref=e646] [cursor=pointer]: Daily, 10:00 AM onwards
+                  - heading "Razz Gaming Studio" [level=5] [ref=e647] [cursor=pointer]
+                  - generic [ref=e648] [cursor=pointer]: RaZZ Gaming Studio, Delhi/NCR
+                  - generic [ref=e649] [cursor=pointer]: ₹75 onwards
+            - link "offer 20% off up to ₹150 Daily, Multiple slots NxGT Gaming Lounge NxGT Gaming Lounge, Delhi/NCR ₹80 onwards" [ref=e650] [cursor=pointer]:
+              - /url: https://www.district.in/events/nxgt-gaming-lounge-2025-buy-tickets
+              - generic [ref=e652] [cursor=pointer]:
+                - generic [ref=e654] [cursor=pointer]:
+                  - img "offer" [ref=e655] [cursor=pointer]
+                  - generic [ref=e656] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e657] [cursor=pointer]:
+                  - generic [ref=e658] [cursor=pointer]: Daily, Multiple slots
+                  - heading "NxGT Gaming Lounge" [level=5] [ref=e659] [cursor=pointer]
+                  - generic [ref=e660] [cursor=pointer]: NxGT Gaming Lounge, Delhi/NCR
+                  - generic [ref=e661] [cursor=pointer]: ₹80 onwards
+            - link "offer 20% off up to ₹150 Daily, 10:00 AM onwards Play and Plate - Gaming Arena Play and Plate | Gaming Arena, Delhi/NCR ₹80 onwards" [ref=e662] [cursor=pointer]:
+              - /url: https://www.district.in/events/play-and-plate-gaming-arena-2025-buy-tickets
+              - generic [ref=e664] [cursor=pointer]:
+                - generic [ref=e666] [cursor=pointer]:
+                  - img "offer" [ref=e667] [cursor=pointer]
+                  - generic [ref=e668] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e669] [cursor=pointer]:
+                  - generic [ref=e670] [cursor=pointer]: Daily, 10:00 AM onwards
+                  - heading "Play and Plate - Gaming Arena" [level=5] [ref=e671] [cursor=pointer]
+                  - generic [ref=e672] [cursor=pointer]: Play and Plate | Gaming Arena, Delhi/NCR
+                  - generic [ref=e673] [cursor=pointer]: ₹80 onwards
+            - link "offer Flat 60% off on select tickets Daily, Multiple slots Glued Supercharged Glued Supercharged, Noida ₹99 onwards" [ref=e674] [cursor=pointer]:
+              - /url: https://www.district.in/events/glued-supercharged-noida-2025-buy-tickets
+              - generic [ref=e676] [cursor=pointer]:
+                - generic [ref=e678] [cursor=pointer]:
+                  - img "offer" [ref=e679] [cursor=pointer]
+                  - generic [ref=e680] [cursor=pointer]: Flat 60% off on select tickets
+                - generic [ref=e681] [cursor=pointer]:
+                  - generic [ref=e682] [cursor=pointer]: Daily, Multiple slots
+                  - heading "Glued Supercharged" [level=5] [ref=e683] [cursor=pointer]
+                  - generic [ref=e684] [cursor=pointer]: Glued Supercharged, Noida
+                  - generic [ref=e685] [cursor=pointer]: ₹99 onwards
+            - link "offer 20% off up to ₹150 Every Tue, 7:00 PM to 11:30 PM Board Gaming Tuesdays Unlocked! 🎲 Unlocked - Bar, Kitchen and Escape Room, Gurugram ₹99" [ref=e686] [cursor=pointer]:
+              - /url: https://www.district.in/events/board-gaming-tuesdays-unlocked-aug16-2022-buy-tickets
+              - generic [ref=e688] [cursor=pointer]:
+                - generic [ref=e690] [cursor=pointer]:
+                  - img "offer" [ref=e691] [cursor=pointer]
+                  - generic [ref=e692] [cursor=pointer]: 20% off up to ₹150
+                - generic [ref=e693] [cursor=pointer]:
+                  - generic [ref=e694] [cursor=pointer]: Every Tue, 7:00 PM to 11:30 PM
+                  - heading "Board Gaming Tuesdays Unlocked! 🎲" [level=5] [ref=e695] [cursor=pointer]
+                  - generic [ref=e696] [cursor=pointer]: Unlocked - Bar, Kitchen and Escape Room, Gurugram
+                  - generic [ref=e697] [cursor=pointer]: ₹99
+    - generic [ref=e700]:
+      - generic [ref=e701]:
+        - link "app-store" [ref=e704] [cursor=pointer]:
+          - /url: /
+          - img "app-store" [ref=e705] [cursor=pointer]
+        - generic [ref=e706]:
+          - link "Terms & Conditions" [ref=e707] [cursor=pointer]:
+            - /url: /policies/terms-of-service
+            - generic [ref=e708] [cursor=pointer]: Terms & Conditions
+          - link "Privacy Policy" [ref=e709] [cursor=pointer]:
+            - /url: /policies/privacy
+            - generic [ref=e710] [cursor=pointer]: Privacy Policy
+          - link "Contact Us" [ref=e711] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e712] [cursor=pointer]: Contact Us
+          - link "List your events" [ref=e713] [cursor=pointer]:
+            - /url: /events/list-your-event
+            - generic [ref=e714] [cursor=pointer]: List your events
+        - generic [ref=e716]:
+          - img "Download the app" [ref=e717]
+          - paragraph [ref=e718]: Scan to download the app
+      - generic [ref=e720]:
+        - generic [ref=e721]: By accessing this page, you confirm that you have read, understood, and agreed to our Terms of Service, Cookie Policy, Privacy Policy, and Content Guidelines. All rights reserved.
+        - generic [ref=e722]:
+          - link "whatsapp-logo" [ref=e723] [cursor=pointer]:
+            - /url: https://whatsapp.com/channel/0029Vb5fR5I6rsQmoskHy10s
+            - img "whatsapp-logo" [ref=e724] [cursor=pointer]
+          - link "Facebook Logo" [ref=e725] [cursor=pointer]:
+            - /url: https://www.facebook.com/districtupdates
+            - img "Facebook Logo" [ref=e726] [cursor=pointer]
+          - link "Instagram Logo" [ref=e727] [cursor=pointer]:
+            - /url: https://www.instagram.com/districtupdates/
+            - img "Instagram Logo" [ref=e728] [cursor=pointer]
+          - link "Twitter Logo" [ref=e729] [cursor=pointer]:
+            - /url: https://x.com/district_india
+            - img "Twitter Logo" [ref=e730] [cursor=pointer]
+          - link "YouTube Logo" [ref=e731] [cursor=pointer]:
+            - /url: https://www.youtube.com/@district.culture
+            - img "YouTube Logo" [ref=e732] [cursor=pointer]
+  - alert [ref=e733]: Discover Activities & Best Things to Do Near You | District
+  - dialog:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - heading "Select Location" [level=5]
+              - generic:
+                - generic:
+                  - textbox "Search city, area or locality"
+              - button "Use Current Location":
+                - generic:
+                  - generic:
+                    - img "location"
+                  - generic:
+                    - generic: Use Current Location
+            - generic:
+              - generic:
+                - heading "All Cities" [level=5]
+  - dialog:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic: Filter by
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Sort By
+                - generic:
+                  - generic: Genre
+              - generic:
+                - generic:
+                  - generic: "Price : Low to High"
+                  - 'radio "Price : Low to High"'
+                - generic:
+                  - generic: Popularity
+                  - radio "Popularity"
+                - generic:
+                  - generic: Date
+                  - radio "Date"
+                - generic:
+                  - generic: "Price : High to Low"
+                  - 'radio "Price : High to Low"'
+                - generic:
+                  - generic: "Distance : Low to High"
+                  - 'radio "Distance : Low to High"'
+            - generic:
+              - generic: Clear filters
+              - button "Apply Filters" [active]:
+                - generic: Apply Filters
+```

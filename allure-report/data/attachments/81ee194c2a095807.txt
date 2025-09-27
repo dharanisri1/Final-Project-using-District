@@ -1,0 +1,10 @@
+Language 1: Hindi
+Language 2: English
+Language 3: Japanese
+Language 4: Malayalam
+Language 5: Bengali
+Language 6: Telugu
+Language 7: Marathi
+Language 8: Punjabi
+Language 9: Manipuri
+Language 10: Tamil
